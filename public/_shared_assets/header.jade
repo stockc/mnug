@@ -1,0 +1,12 @@
+.wrapper
+    #header
+        center
+            img(src='/assets/images/mnug.png', style='margin-top: 20px')
+.wrapper
+    #topbar
+        .fl_left
+.wrapper
+    #topnav
+        ul(class='nav')
+            for nav, slug in public._data.nav
+                li: a(href="/#{ slug }")= nav.title

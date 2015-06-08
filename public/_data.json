@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "": {
+      "title": "Home"
+    },
+    "next_meetup": {
+      "title": "Next Meetup"
+    },
+    "archive": {
+      "title": "Archive"
+    },
+    "speakers": {
+      "title": "Speakers"
+    },
+    "about": {
+      "title": "About"
+    },
+    "imprint": {
+      "title": "Imprint"
+    }
+  }
+
+}

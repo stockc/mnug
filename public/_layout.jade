@@ -1,0 +1,19 @@
+doctype
+html
+    head
+        title MNUG - Munich NodeJS User Group
+        link(rel='stylesheet', href='/assets/layout.css')
+        link(rel='stylesheet', href='/assets/navi.css')
+        script(src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyDvsGfCR2q58do1B2Hy1efNzpK306VdPLk')
+        script(src='/js/drawMap.js')
+    body
+        != partial("/_shared_assets/header.jade")
+        .wrapper
+            .container
+                #container
+                    #sidebar
+                        != partial("/_shared_assets/sidebar.jade")
+                    div(style='float:left; width: 550px')
+                        !=yield
+                    br(clear='all')
+        != partial("/_shared_assets/footer.jade")
