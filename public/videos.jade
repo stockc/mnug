@@ -1,0 +1,10 @@
+for meetup, slug in public.meetup._data.archive
+    if meetup.schedule
+        h2 Meetup: #{ meetup.title }
+        for topic, number in meetup.schedule
+            if topic.video
+                a(name='#{ slug }-#{ number }')
+                strong #{ topic.title }
+                br
+                | by #{ topic.speaker }
+                iframe(width='560', height='315', src='#{ topic.video }', frameborder='0', allowfullscreen='allowfullscreen')

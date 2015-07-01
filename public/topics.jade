@@ -1,0 +1,16 @@
+mixin meetup_short(meetup, slug)
+    h2: a(href='/meetup/#{ slug }') Meetup: #{ meetup.title }
+    ul
+        if meetup.schedule
+            each topic, number in meetup.schedule
+                li
+                    strong #{ topic.title }
+                    br
+                    | by #{ topic.speaker },
+                    if topic.video
+                        a(href='/videos##{ slug }-#{ number }')  Video
+
+for meetup, slug in public.meetup._data.archive
+    if meetup.title
+        +meetup_short(meetup, slug)
+        hr

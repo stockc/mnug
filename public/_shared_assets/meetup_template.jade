@@ -1,0 +1,31 @@
+mixin meetup(meetup, slug)
+    h2 Meetup: #{ meetup.title }
+    p On 26th February 2015 we would like to invite you to our next community meetup of the Munich Node.JS User Group. Please sign up on Meetup to give us a hint how many nodehackers are comming!
+    h3 What?
+    p On #{ meetup.title } we have the following schedule:
+    ul
+        if meetup.schedule
+            each topic, number in meetup.schedule
+                +topic(topic, slug, number)
+    h3 When?
+    p Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
+    h3 Where?
+    != partial("/_shared_assets/places/#{meetup.place}")
+
+mixin topic(topic, slug, number)
+    li
+        strong #{ topic.time }: #{ topic.title }
+        br
+        | by
+        if topic.speaker.name
+            a(href='#{ topic.speaker.link }')  #{ topic.speaker.name }
+        else
+            |  #{ topic.speaker }
+
+        p #{ topic.abstract }
+        if topic.slides
+            a(href='#{ topic.slides }') Slides |
+
+        if topic.video
+            a(href='/videos##{ slug }-#{ number }')  Video
+
