@@ -1,5 +1,8 @@
 {
   "upcoming": {
+    "2015_07_30": {}
+  },
+  "archive": {
     "2015_06_25": {
       "title": "June 25, 2015",
       "place": "tng",
@@ -13,9 +16,7 @@
           "speaker": "Zlatko Đurić"
         }
       ]
-    }
-  },
-  "archive": {
+    },
     "2015_02_26": {
       "title": "February 26, 2015",
       "place": "tng",
