@@ -6,7 +6,7 @@ If you want to hold a presentation, or if you have a suggestion for a topic just
 
 Do not hesitate and come up with any interesting topic of the Node.JS world :)
 
-## Speakers & Talks
+## Previous speakers
 
 We're proud having these speakers on board:
 
@@ -109,6 +109,14 @@ We're proud having these speakers on board:
     Wishing for fast server-side JS since 1998, he's really happy it has finally arrived with Node.js. 
     He's using Node.js ubiquitously, even on his RaspberryPi. [@0xPIT](http://www.twitter.com/0xPIT)
 
+*   <a name="mathiasb"></a>
+    **Mathias Buus Madsen**  
+    Mathias is a Node.js hacker based in Copenhagen who enjoys tinkering with
+    p2p systems.
+    He is currently working on the [Dat project](http://dat-data.com) where we
+    are trying to change the way people share and contribute
+    to large datasets.
+
 *   <a name="mathiasp"></a>
     **Mathias Peter**  
     8+ years experience with software development. JS, Node, and AWS as focus. Experience with enterprise customers. 
@@ -168,4 +176,7 @@ We're proud having these speakers on board:
     Now that every mobile phone has JavaScript and we in [uxebu](http://uxebu.com/) continue to push the limits there. 
     Last year we launched pixelplant.com, a Flash to HTML5 conversion with the main focus on the iPad, pushing the limits again. 
     Pixelplant is pure JavaScript (client and server side), of course. 
-    Bonsaijs is the heart of it, it’s open source and offers intuitive graphics APIs to the HTML5 user.
+
+*   <a name="zlatkod"></a>
+    **Zlatko Đurić**  
+    Zlatko Duric is a Node.js developer and a go-to guy for JavaScript questions at ThinxNet.com. There he's working on REST APIs and "online" and "offline" event processing pipelines using Node.js, MongoDB, Redis, RabbitMQ and a few other technologies, and occassionally as nagging the frontend (Polymer) people about "best practices", "reusability" and "separation of concerns" and trying to bribe the devops people into "give me a button to restart the whole pipeline of everything in the universe on a click". Previously Zlatko worked as a consultant, freelancer and an employee on a whole lot of different projects: high-thoughput Node.js/Redis services, a few rewrites (and order-of-magintude speedups) of PHP-based "APIs" to Node.js, building frontend, ie. dashboards in several different frameworks. He's made an amazing number of the usual and unusual mistakes it made him think he can have an interesting JavaScript talk at a Node.js meetup. 

@@ -1,27 +1,406 @@
 {
   "upcoming": {
-    "2015_06_25": {}
+    "2015_06_25": {
+      "title": "June 25, 2015",
+      "place": "tng",
+      "schedule": [
+        {
+          "title":"Pipes, streams and distributed systems",
+          "speaker": "Mathias Buus Madsen"
+        },
+        {
+          "title":"Event processing with Node.js and RabbitMQ",
+          "speaker": "Zlatko Đurić"
+        }
+      ]
+    }
   },
   "archive": {
-    "2015_02_26": {},
-    "2014_12_04": {},
-    "2014_10_13": {},
-    "2014_09_24": {},
-    "2014_08_13": {},
-    "2014_07_09": {},
-    "2014_05_14": {},
-    "2014_02_20": {},
-    "2013_12_12": {},
-    "2013_10_10": {},
-    "2013_06_15": {},
-    "2013_06_13": {},
-    "2013_04_11": {},
-    "2013_02_21": {},
-    "2012_12_13": {},
-    "2012_10_11": {},
-    "2012_06_14": {},
-    "2012_04_19": {},
-    "2012_02_09": {},
-    "2011_12_01": {}
+    "2015_02_26": {
+      "title": "February 26, 2015",
+      "place": "tng",
+      "schedule": [
+        {
+          "title": "Scalable Cloud Solutions with Node.js",
+          "speaker": "Mathias Peter and Aaron Michael König from TCS",
+          "video": "http://youtube.com/embed/KL5GnchGfzQ"
+        },
+        {
+          "title": "The CEAN stack: Couchbase + Express + AngularJS + Node.js",
+          "speaker": "David Maier",
+          "video": "http://youtube.com/embed/83OKLbdGjTs"
+        },
+        {
+          "title": "The LeBroN stack: LevelDB + Browserify + Npm",
+          "speaker": "Julian Gruber",
+          "video": "http://youtube.com/embed/jo2h-jV9OjQ"
+        }
+      ]
+    },
+    "2014_12_04": {
+      "title": "December 4, 2014",
+      "schedule": [
+        {
+          "title": "Kickstarting node.js projects with Yeoman",
+          "speaker": "Patrick Bürgin",
+          "video": "http://youtube.com/embed/yGU-56COwGM"
+        },
+        {
+          "title": "Node-Red - A nifty tool for the IoT",
+          "speaker": "Rainer Jung",
+          "video": "http://youtube.com/embed/2uAX6few0oU"
+        },
+        {
+          "title": "Introduction to HarpWebServer",
+          "speaker": "Alexander Reelsen",
+          "video": "http://youtube.com/embed/py-l2o2lsZ8"
+        },
+        {
+          "title": "The walking dead node",
+          "speaker": "Bodo Kaiser",
+          "video": "http://youtube.com/embed/wvVBn6j2RRk"
+        }
+      ]
+    },
+    "2014_10_13": {
+      "title": "October 13, 2014",
+      "schedule": [
+        {
+          "title": "How Node.js beat SEO",
+          "speaker": "Simon Jost",
+          "video": "http://youtube.com/embed/ZOw4OXNxwvA"
+        },
+        {
+          "title": "node-crate: Node.js & BigData",
+          "speaker": "Stefan Thies",
+          "video": "https://www.youtube.com/embed/t-rJxmh4mwQ"
+        }
+      ]
+    },
+    "2014_09_24": {
+      "title": "September 24, 2014",
+      "schedule": [
+        {
+          "title": "Microcontrollers and Node",
+          "speaker": "Patrick Mulder",
+          "video": "https://www.youtube.com/embed/FFFIxb0EKJo"
+        },
+        {
+          "title": "Fullstack JavaScript: node.js + AngularJS + Couchbase",
+          "speaker": "Philipp Fehre",
+          "video": "https://www.youtube.com/embed/e2dcGwlfsYY"
+        },
+        {
+          "title": "Native code in node.js: An introduction to Couchnode",
+          "speaker": "Philipp Fehre"
+        }
+      ]
+    },
+    "2014_08_13": {
+      "title": "August 24, 2014 - BBQ.js",
+      "schedule": [
+        {
+          "title": "Batch API",
+          "speaker": "Mario Volke",
+          "video": "https://www.youtube.com/embed/9k7oWolTx7o"
+        },
+        {
+          "title": " Socrates conference report",
+          "speaker": "Wolfram Kriesing and Christoph Neuroth"
+        },
+        {
+          "title": "JWT: JSON Web Token",
+          "speaker": "Christian Ranz",
+          "video": "https://www.youtube.com/embed/eWUkxzyB1Rk"
+        }
+     ]
+    },
+    "2014_07_09": {
+      "title": "July 9, 2014",
+      "schedule": [
+        {
+          "title": "Building JavaScript applications based on DDD, CQRS and EventSourcing",
+          "speaker": "Johannes Becker",
+          "video": "https://www.youtube.com/embed/XSc7NPedAxw"
+        },
+        {
+          "title": "Pimping Grunt.js with I/O",
+          "speaker": "David Amend",
+          "video": "https://www.youtube.com/embed/sftMbpi5rWo"
+        },
+        {
+          "title": "alamid-schema",
+          "speaker": "Michael Jaser",
+          "video": "https://www.youtube.com/embed/U5goZCiuh5U"
+        },
+        {
+          "title": "Managing your front-end with webpack",
+          "speaker": "Johannes Ewald",
+          "video": "https://www.youtube.com/embed/EBlUng3IU4E"
+        },
+        {
+          "title": "alamid-api: Abstracting different transports (http/websockets) and libraries to a unite them all",
+          "speaker": "Michael Jaser",
+          "video": "https://www.youtube.com/embed/TeNRC0QYBdo"
+        }
+      ]
+    },
+    "2014_05_14": {
+      "title": "May 14, 2014",
+      "schedule": [
+        {
+          "title": "Dares - Distributed heterogeneous data replication systems with node",
+          "speaker": "Florian Rohm and Alexander Zeilmann",
+          "video": "https://www.youtube.com/embed/Avq9nY_XXH8"
+        },
+        {
+          "title": "AtlasBoard a flexible dashboard with node",
+          "speaker": "Christopher Wolf",
+          "video": "https://www.youtube.com/embed/Kk6DYiV_jB8"
+        },
+        {
+          "title": "email.js",
+          "speaker": "Felix Hammerl",
+          "video": "https://www.youtube.com/embed/ryKV0V3rSA0"
+        },
+        {
+          "title": "Grunt.js for the Enterprise",
+          "speaker": "David Amend"
+        },
+        {
+          "title": "markdown, node & co",
+          "speaker": "Christine Koppelt"
+        }
+      ]
+    },
+    "2014_02_20": {
+      "title": "February 20, 2014",
+      "schedule": [
+        {
+          "title": "Node.js in Comparison to JEE 7 - REST based transactions in focus",
+          "speaker": "Franz Sommer"
+        },
+        {
+          "title": "Single-Page Applications with Thorax.js",
+          "speaker": "Patrick Mulder"
+        },
+        {
+          "title": "Isomorphic Web Applications Using Rendr",
+          "speaker": "Christoph Neuroth"
+        },
+        {
+          "title": "How to refactor this?",
+          "speaker": "Dominik Schemmel"
+        }
+      ]
+    },
+    "2013_12_12": {
+      "title": "December 12, 2013",
+      "schedule": [
+        {
+          "title": "Meteor.js - Developing a Classroom Response System",
+          "speaker": "Dominik Ferber",
+          "video": "https://www.youtube.com/embed/fDt1CNMEj9s"
+        },
+        {
+          "title": "How streams help to raise Node.js performance",
+          "speaker": "Golo Roden",
+          "video": "https://www.youtube.com/embed/QgEuZ52OZtU"
+        },
+        {
+          "title": "How to build large projects like bradypodion.io with grunt.js",
+          "speaker": "David Pfahler",
+          "video": "https://www.youtube.com/embed/6ZuPhjIKQ6k"
+        },
+        {
+          "title": "Energy consumption awareness with Node.js",
+          "speaker": "Karl Pitrich",
+          "video": "https://www.youtube.com/embed/eqKBCMSgHOA"
+        },
+        {
+          "title": "To Boldly Go Where No Man Has Gone Before - Porting Node Modules to Chrome.",
+          "speaker": "Felix Hammerl and Tankred Hase"
+        }
+      ]
+    },
+    "2013_10_10": {
+      "title": "October 10, 2013",
+      "schedule": [
+        {
+          "title": "Riak and Node.js: Best served with HTTP",
+          "speaker": "Philipp Fehre",
+          "video": "https://www.youtube.com/embed/dVodbSUrwgM"
+        },
+        {
+          "title": "Let it die",
+          "speaker": "Christian Ranz",
+          "video": "https://www.youtube.com/embed/FcHFhUGmLQs"
+        },
+        {
+          "title": "docker.io",
+          "speaker": "Christine Koppelt"
+        },
+        {
+          "title": "Time-critical hardware (pinball) control with node.js",
+          "speaker": "Axel Böttcher",
+          "video": "https://www.youtube.com/embed/trVYeHhD-pM"
+        },
+        {
+          "title": "RounderDB - Monitoring with Node.js on the Raspberry Pi",
+          "speaker": "Anders Weijnitz",
+          "video": "https://www.youtube.com/embed/BbNBVIPHuk4"
+        }
+      ]
+    },
+    "2013_06_15": {
+      "title": "June 15, 2013",
+      "schedule": [
+        {
+          "title": "Beginner Node.js Workshop: 15th June 2013",
+          "speaker": "Golo Roden"
+        }
+      ]
+    },
+    "2013_06_13": {
+      "title": "June 13, 2013",
+      "schedule": [
+        {
+          "title": "Vorstellung TypeScript",
+          "speaker": "Golo Roden"
+        },
+        {
+          "title": "DSpace - A federated social mapping toolkit",
+          "speaker": "iggy & chrono"
+        },
+        {
+          "title": "Live coding for realtime data visualization based on node.js with Dashing-Capybara",
+          "speaker": "Christoph Neuroth"
+        },
+        {
+          "title": "FunctinoScript, a meta language which converts all the typos into real code",
+          "speaker": "Johannes Ewald and Michael Jaser"
+        },
+        {
+          "title": "Better testing with Cases and Isolated",
+          "speaker": "Golo Roden"
+        }
+      ]
+    },
+    "2013_04_11": {
+      "title": "April 11, 2013",
+      "schedule": [
+        {
+          "title": "TDD for better code",
+          "speaker": "Wolfram Kriesing"
+        },
+        {
+          "title": "Introduction to JSON Patch",
+          "speaker": "Marcin Warpechowski"
+        },
+        {
+          "title": "Introduction to ReWire",
+          "speaker": "Johannes Ewald"
+        },
+        {
+          "title": "Mozilla Perona with Node.js",
+          "speaker": "Christine Koppelt"
+        }
+      ]
+    },
+    "2013_02_21": {
+      "title": "February 21, 2013",
+      "schedule": [
+        {
+          "title": "Clojurescript",
+          "speaker": "Alex Petrov"
+        },
+        {
+          "title": "Nodecopter",
+          "speaker": "Christoph Stock and Stefan Kirsch"
+        }
+      ]
+    },
+    "2012_12_13": {
+      "title": "December 13, 2012",
+      "schedule": [
+        {
+          "title": "Connect and Express",
+          "speaker": "Golo Roden"
+        },
+        {
+          "title": "Alamid",
+          "speaker": "Johannes Ewald, Michael Jaser and Paul Torka"
+        }
+      ]
+    },
+    "2012_10_11": {
+      "title": "October 11, 2012",
+      "schedule": [
+        {
+          "title": "Grunt.js: The Node build tool",
+          "speaker": "David Amend"
+        },
+        {
+          "title": "CoffeeScript: Who is afraid of the whitespaces?",
+          "speaker": "Robert Kuzelj"
+        }
+      ]
+    },
+    "2012_06_14": {
+      "title": "June 14, 2012",
+      "schedule": [
+        {
+          "title": "Node.js Live Hacking and the Node.js Scalability Myth",
+          "speaker": "Felix Geisendörfer"
+        },
+        {
+          "title": "The Realtime Web",
+          "speaker": "Arnout Kazemier"
+        }
+      ]
+    },
+    "2012_04_19": {
+      "title": "April 19, 2012",
+      "schedule": [
+        {
+          "title": "How to escape callback hell and where to go from there",
+          "speaker": "Robert Kuzelj"
+        },
+        {
+          "title": "Performance profiling in Node.js",
+          "speaker": "Dmitri Melikyan"
+        },
+        {
+          "title": "OOP-Programmierung im Ext JS-Stil mit Node.js",
+          "speaker": "Aron Homberg"
+        },
+        {
+          "title": "How to run Node.js applications with OpenShift",
+          "speaker": "Marek Jelen"
+        }
+      ]
+    },
+    "2012_02_09": {
+      "title": "February 9, 2012",
+      "schedule": [
+        {
+          "title": "SmileyReport - Web application development with Node.JS",
+          "speaker": "Christop Stock and Stefan Kirsch"
+        },
+        {
+          "title": "Node.js at Pro7",
+          "speaker": "Maximilian Schweitzer"
+        }
+      ]
+    },
+    "2011_12_01": {
+      "title": "December 1, 2011",
+      "schedule": [
+        {
+          "title": "Node.JS introduction & best practices",
+          "speaker": "Felix Geisendörfer"
+        }
+      ]
+    }
   }
 }

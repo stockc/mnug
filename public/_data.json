@@ -6,8 +6,14 @@
     "next_meetup": {
       "title": "Next Meetup"
     },
+    "topics": {
+      "title": "Topics"
+    },
     "archive": {
       "title": "Archive"
+    },
+    "videos": {
+      "title": "Videos"
     },
     "speakers": {
       "title": "Speakers"
@@ -19,5 +25,4 @@
       "title": "Imprint"
     }
   }
-
 }
