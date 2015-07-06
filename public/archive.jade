@@ -1,7 +1,7 @@
 h1 Previous meetups
 ul
     for meetup, slug in public.meetup._data.archive
-       li: a(href="/archive##{ slug }")= slug
+       li: a(href="/archive.html##{ slug }")= slug
 hr
 for meetup, slug in public.meetup._data.archive
     a(name="#{ slug }")
