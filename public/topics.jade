@@ -1,5 +1,5 @@
 mixin meetup_short(meetup, slug)
-    h2: a(href='/meetup/#{ slug }') Meetup: #{ meetup.title }
+    h2: a(href='/meetup/#{ slug }.html') Meetup: #{ meetup.title }
     ul
         if meetup.schedule
             each topic, number in meetup.schedule
@@ -8,7 +8,7 @@ mixin meetup_short(meetup, slug)
                     br
                     | by #{ topic.speaker },
                     if topic.video
-                        a(href='/videos##{ slug }-#{ number }')  Video
+                        a(href='/videos.html##{ slug }-#{ number }')  Video
 
 for meetup, slug in public.meetup._data.archive
     if meetup.title

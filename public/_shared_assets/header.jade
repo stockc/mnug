@@ -9,4 +9,7 @@
     #topnav
         ul(class='nav')
             for nav, slug in public._data.nav
-                li: a(href="/#{ slug }")= nav.title
+                if slug
+                    li: a(href="/#{ slug }.html")= nav.title
+                else
+                    li: a(href="/")= nav.title
