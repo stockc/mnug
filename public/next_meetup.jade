@@ -1,4 +1,3 @@
 for meetup, slug in public.meetup._data.upcoming
     != partial("/meetup/" + slug)
-    h3 Where?
     != partial("/_shared_assets/places/" + meetup.place)
