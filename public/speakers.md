@@ -86,6 +86,10 @@ We're proud having these speakers on board:
     Microsoft has awarded Golo the Most Valuable Professional (MVP) for C# accolade twice in recognition of his excellent work in the community. 
     Additionally, he is the author of the first German book on [Node.js](http://www.amazon.de/dp/389864829X).
 
+*   <a name="igori"></a>
+    **Igor Ivanovic**  
+    NodeJS Architect / Team Lead at CupoNation
+
 *   <a name="johannesb"></a>
     **Johannes Becker**  
     [Johannes Becker](https://twitter.com/dieserjohannes) is a Remote Freelancer who found true love in Domain-driven Design, NodeJS and DevOps. 

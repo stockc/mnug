@@ -1,6 +1,22 @@
 {
   "upcoming": {
-    "2015_07_30": {}
+    "2015_07_30": {
+      "title": "July 30, 2015",
+      "schedule": [
+        {
+          "title": "Ripple-Lib: Open Source Banking in Javascript",
+          "speaker": "Martin Kreidenweis, Konstantin Knauf"
+        },
+        {
+          "title": "Message Queues - The infrastructural glue",
+          "speaker": "Julian Gruber"
+        },
+        {
+          "title": "MVCJS yet another mvc nodejs framework",
+          "speaker": "Igor Ivanovic"
+        }
+      ]
+    }
   },
   "archive": {
     "2015_06_25": {
