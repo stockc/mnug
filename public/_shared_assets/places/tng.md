@@ -7,6 +7,5 @@ by S-Bahn: Unterföhring (S8)
 by Bus: Linie 233, Haltestelle Betastraße  
 by Car: There are parking areas on the left side
 
-<div id="map" class="map" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
+<div id="map" class="map" data-locationtext="TNG<br/>Betastraße 13a<br/>85774 Unterföhring" data-locationlatlng="48.187663,11.654348" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
 </div>
-<script type="text/javascript">drawMap();</script>
