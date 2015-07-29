@@ -30,7 +30,8 @@
         },
         {
           "title":"Event processing with Node.js and RabbitMQ",
-          "speaker": "Zlatko Đurić"
+          "speaker": "Zlatko Đurić",
+          "video": "https://www.youtube.com/embed/UvXunxM1q6M"
         },
         {
           "title":"P2P live streaming",
