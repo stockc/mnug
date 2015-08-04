@@ -1,7 +1,13 @@
 {
   "upcoming": {
+    "next_meetup": {
+      "title": "next_meetup"
+    }
+  },
+  "archive": {
     "2015_07_30": {
       "title": "July 30, 2015",
+      "place": "tng",
       "schedule": [
         {
           "title": "Ripple-Lib: Open Source Banking in Javascript",
@@ -13,12 +19,11 @@
         },
         {
           "title": "MVCJS yet another mvc nodejs framework",
-          "speaker": "Igor Ivanovic"
+          "speaker": "Igor Ivanovic",
+          "video": "https://www.youtube.com/embed/Jc4B39acWYc"
         }
       ]
-    }
-  },
-  "archive": {
+    },
     "2015_06_25": {
       "title": "June 25, 2015",
       "place": "tng",
