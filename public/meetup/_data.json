@@ -14,8 +14,9 @@
           "speaker": "Martin Kreidenweis, Konstantin Knauf"
         },
         {
-          "title": "Message Queues - The infrastructural glue",
-          "speaker": "Julian Gruber"
+          "title": "Message Queues with NSQ - The infrastructural glue",
+          "speaker": "Julian Gruber",
+          "video": "https://www.youtube.com/embed/xhNapGc6SsU"
         },
         {
           "title": "MVCJS yet another mvc nodejs framework",
