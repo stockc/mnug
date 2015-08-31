@@ -11,7 +11,8 @@
       "schedule": [
         {
           "title": "Ripple-Lib: Open Source Banking in Javascript",
-          "speaker": "Martin Kreidenweis, Konstantin Knauf"
+          "speaker": "Martin Kreidenweis, Konstantin Knauf",
+          "video": "https://www.youtube.com/embed/Vieg-WzWtLc"
         },
         {
           "title": "Message Queues with NSQ - The infrastructural glue",
