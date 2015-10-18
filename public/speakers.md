@@ -72,6 +72,13 @@ We're proud having these speakers on board:
     Dominik Ferber is a computer science student at Hochschule München. 
     As a big believer in isomorphic javascript he handles both worlds - the server and the browser.
 
+*   <a name="franziskah"></a>
+    **Franziska Hinkelmann**  
+    Franziska has a PhD in mathematics and works for TNG Technology Consulting
+    GmbH. She contributes to several open source projects, regularly teaches
+    Node.js courses at the International Summer University for Women in
+    Informatics, and organizes the PHP User Group Munich.
+
 *   <a name="franzs"></a>
     **Franz Sommer**  
     Franz has previously finished a degree in economics and remained a journeyman at will. 

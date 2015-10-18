@@ -1,7 +1,18 @@
 {
   "upcoming": {
     "next_meetup": {
-      "title": "next_meetup"
+      "title": "October 22, 2015",
+      "place": "tng",
+      "schedule": [
+        {
+          "title": "One ring to rule them all",
+          "speaker": "Golo Roden"
+        },
+        {
+          "title": "A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8",
+          "speaker": "Franziska Hinkelmann"
+        }
+      ]
     }
   },
   "archive": {
