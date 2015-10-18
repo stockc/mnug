@@ -26,14 +26,14 @@ On October 22, 2015 we have the following schedule:
 *   **21:15: A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8**  
     by [Franziska Hinkelmann](/speakers.html#franziskah)
   
-    Do you know how JavaScript engines work and why they are so blazingly fast?··· 
+    Do you know how JavaScript engines work and why they are so blazingly fast?
     
     Learn about the fundamentals like abstract syntax tree, opcodes, and
     just-in-time compilation. JavaScript code can be almost as fast as native
     C++ code. How do engines accomplish this? Lets look into optimization
     techniques including hidden classes, inline caching, and ahead-of-time
     compilation, which, if applied correctly, will give your code a turbo
-    boost.·
+    boost.
     
     Understand the inner workings of JavaScript engines and learn by examples
     how to write faster code.
