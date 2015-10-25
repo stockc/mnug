@@ -1,42 +1,20 @@
-# Meetup: October 22, 2015
+# Meetup: TBD
 
-On October 22, 2015 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
-Please sign up on [Meetup](http://www.meetup.com/Munich-Node-js-User-Group/events/226142201/) to give us a hint how many nodehackers are coming!
+On *TBD* we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
+Please sign up on Meetup to give us a hint how many nodehackers are coming!
 
 ### What?
 
-On October 22, 2015 we have the following schedule:
+On *TBD* we have the following schedule:
 
 
 *   **19:00: Beer & Pizza**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
     
-*   **20:00: One ring to rule them all**  
-    by [Golo Roden](/speakers.html#golor)
+*   **20:00: TBD**  
+    by TBD
   
-    Making computers talk to each other over the network is simple: You have
-    a server, and you have clients. But what if you want to make them talk to
-    each other *without* having a server, more like ... coequal peers? What you
-    need is a decentralized network that works autonomously, that can handle
-    appearance and disappearance of arbitrary peers at any point in time, and
-    that does not require a degree in rocket-science. Golo Roden will tell (and
-    show!) you how to do that with pure JavaScript - and what you have to watch
-    out for.
-  
-*   **21:15: A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8**  
-    by [Franziska Hinkelmann](/speakers.html#franziskah)
-  
-    Do you know how JavaScript engines work and why they are so blazingly fast?
-    
-    Learn about the fundamentals like abstract syntax tree, opcodes, and
-    just-in-time compilation. JavaScript code can be almost as fast as native
-    C++ code. How do engines accomplish this? Lets look into optimization
-    techniques including hidden classes, inline caching, and ahead-of-time
-    compilation, which, if applied correctly, will give your code a turbo
-    boost.
-    
-    Understand the inner workings of JavaScript engines and learn by examples
-    how to write faster code.
+    TBD
   
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers

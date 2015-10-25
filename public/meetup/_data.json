@@ -1,6 +1,15 @@
 {
   "upcoming": {
     "next_meetup": {
+      "title": "",
+      "place": "",
+      "schedule": [
+      ]
+    }
+
+  },
+  "archive": {
+    "2015_10_22": {
       "title": "October 22, 2015",
       "place": "tng",
       "schedule": [
@@ -13,9 +22,7 @@
           "speaker": "Franziska Hinkelmann"
         }
       ]
-    }
-  },
-  "archive": {
+    },
     "2015_07_30": {
       "title": "July 30, 2015",
       "place": "tng",
