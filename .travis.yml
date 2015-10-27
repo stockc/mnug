@@ -1,0 +1,13 @@
+language: node_js
+node_js: ['iojs']
+before_script:
+  - npm install -g harp
+script: harp compile
+deploy:
+  provider: s3
+  access_key_id: "$AWS_ACCESS_KEY"
+  secret_access_key: "$AWS_SECRET_KEY"
+  bucket: "mnug"
+  skip_cleanup: true
+  region: "eu-central-1"
+  local_dir: www
