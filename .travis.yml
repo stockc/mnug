@@ -7,7 +7,7 @@ deploy:
   provider: s3
   access_key_id: "$AWS_ACCESS_KEY"
   secret_access_key: "$AWS_SECRET_KEY"
-  bucket: "mnug"
+  bucket: "mnug.de"
   skip_cleanup: true
   region: "eu-central-1"
   local_dir: www
