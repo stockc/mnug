@@ -15,11 +15,13 @@
       "schedule": [
         {
           "title": "One ring to rule them all",
-          "speaker": "Golo Roden"
+          "speaker": "Golo Roden",
+          "video": "https://www.youtube.com/embed/McjY7TAA7ko"
         },
         {
           "title": "A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8",
-          "speaker": "Franziska Hinkelmann"
+          "speaker": "Franziska Hinkelmann",
+          "video": "https://www.youtube.com/embed/LSigpD-0LCw"
         }
       ]
     },
