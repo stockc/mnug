@@ -22,7 +22,12 @@
           "title": "A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8",
           "speaker": "Franziska Hinkelmann",
           "video": "https://www.youtube.com/embed/LSigpD-0LCw"
-        }
+        },
+        {
+          "title": "Asynchrone Programmierung 101",
+          "speaker": "Golo Roden",
+          "video": "https://www.youtube.com/embed/kKnGUe5X7No"
+        },
       ]
     },
     "2015_07_30": {
