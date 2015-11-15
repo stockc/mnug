@@ -1,11 +1,11 @@
-# Meetup: TBD
+# Meetup: December 10, 2015
 
-On *TBD* we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
+On December 10, 2015 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
 Please sign up on Meetup to give us a hint how many nodehackers are coming!
 
 ### What?
 
-On *TBD* we have the following schedule:
+On December 10, 2015 we have the following schedule:
 
 
 *   **19:00: Beer & Pizza**  
