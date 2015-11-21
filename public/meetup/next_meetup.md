@@ -26,7 +26,7 @@ On December 10, 2015 we have the following schedule:
     permanently at no cost. Thus, the talk focuses on features relevant for
     development and keeps operations out of scope.
 
-*   **19:15: Beer & Pizza**  
+*   **19:15: Beer & Food**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
   
 *   **20:00: IoT Chess**  
@@ -54,7 +54,7 @@ On December 10, 2015 we have the following schedule:
   
 ### When?
  
-Talks starting at 6:00pm. Admission with beer & pizza from 7:15pm.
+Talks starting at 6:00pm. Admission with beer & food from 7:15pm.
  
 ### Where?
 *   **18:00: First talk**  
@@ -64,7 +64,7 @@ Talks starting at 6:00pm. Admission with beer & pizza from 7:15pm.
   
 ### When?
  
-Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
+Talks starting at 6:00pm. Admission with beer & food from 7pm.
  
 ### Where?
 
