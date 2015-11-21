@@ -1,9 +1,9 @@
-# Meetup: December 10, 2015 - Draft
+# Meetup: December 10, 2015 - **Draft**
 
 On December 10, 2015 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
 Please sign up on Meetup to give us a hint how many nodehackers are coming!
 
-Attention! We start already at 6pm.
+**Attention! We start already at 6pm.**
 
 ### What?
 
@@ -32,12 +32,12 @@ On December 10, 2015 we have the following schedule:
 *   **20:00: IoT Chess**  
     by [Lars Gregori](/speakers.html#larsg)
   
-    A cool IoT project.
+    TBD
   
 *   **20:45: IoT at Netbeast**  
     by [Jesús Darío Rivera](/speakers.html#jesusr)
   
-    This talk provides an overview of publicly available Platform as a Service
+    TBD
   
 *   **21:45: Hyperdrive - a p2p file sharing network**  
     by [Mathias Buus Madsen](/speakers.html#mathiasb)
