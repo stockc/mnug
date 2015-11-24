@@ -97,6 +97,14 @@ We're proud having these speakers on board:
     **Igor Ivanovic**  
     NodeJS Architect / Team Lead at CupoNation
 
+*   <a name="jesusr"></a>
+    **Jesus Dario**  
+    Jesus Dario ([github](https://github.com/jsdario), [twitter](https://twitter.com/_jesusdario)) is a 22-year old
+    developer that has been programming since high-school. CTO of Netbeast and
+    TopTal full stack javascript engineer creates open source software and
+    enterprise services to allow a real IoT. Understanding and merging the mess
+    of services and products we have available today. Over all he is a maker.
+
 *   <a name="johannesb"></a>
     **Johannes Becker**  
     [Johannes Becker](https://twitter.com/dieserjohannes) is a Remote Freelancer who found true love in Domain-driven Design, NodeJS and DevOps. 

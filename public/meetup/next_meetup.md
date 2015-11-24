@@ -34,12 +34,34 @@ On December 10, 2015 we have the following schedule:
   
     TBD
   
-*   **20:45: IoT at Netbeast**  
+*   **20:25: How we automated API growth with microservices**  
     by [Jesús Darío Rivera](/speakers.html#jesusr)
   
-    TBD
+    To allow communication for vendor independant devices is hard. A single API
+    may not work for many resources and so for a developer is imposible to
+    create apps cross-target. This refers to an app, that independently of the
+    hardware that is running on, has another device or resource as a target,
+    that may have an unknown API.
+
+    To solve this problem in Netbeast we have created both an API and an API
+    engine. The API engine is a structure that allows an API to be extended
+    with microservices, that declare themselves as part of a major application
+    and run on a different process. The API itself is the interface that the
+    engine provides to developers to make use of the mesh of microservices that
+    are behind.
+
+    This structure runs like a whole thing. Whenever an error comes primitives
+    might be dispatched from different microservices and those may implement
+    different capabilities and remain secret not only for the user, but for the
+    developer that make use of them. This is a flexible way to create massive
+    applications that evolve with time, like building blocks for software.
+
+    During the talk we are going to describe the system from outside to inside.
+    This is yet another approach for microservices, that is more about
+    implementation than configuration.
+
   
-*   **21:45: Hyperdrive - a p2p file sharing network**  
+*   **21:20: Hyperdrive - a p2p file sharing network**  
     by [Mathias Buus Madsen](/speakers.html#mathiasb)
   
     [Hyperdrive](https://www.npmjs.com/package/hyperdrive) is a new project
