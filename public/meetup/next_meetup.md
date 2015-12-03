@@ -1,4 +1,4 @@
-# Meetup: December 10, 2015 - **Draft**
+# Meetup: December 10, 2015
 
 On December 10, 2015 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
 Please sign up on Meetup to give us a hint how many nodehackers are coming!
@@ -10,6 +10,8 @@ Please sign up on Meetup to give us a hint how many nodehackers are coming!
 On December 10, 2015 we have the following schedule:
 
 
+*   **17:30: Door open**  
+  
 *   **18:00: Implementing Websockets in Nodejs**  
     by [Bodo Kaiser](/speakers.html#bodok)
   
@@ -26,7 +28,7 @@ On December 10, 2015 we have the following schedule:
     permanently at no cost. Thus, the talk focuses on features relevant for
     development and keeps operations out of scope.
 
-*   **19:15: Beer & Food**  
+*   **19:15: Break with Beer & Food**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
   
 *   **20:00: IoT Chess**  
@@ -61,7 +63,7 @@ On December 10, 2015 we have the following schedule:
     implementation than configuration.
 
   
-*   **21:20: Hyperdrive - a p2p file sharing network**  
+*   **21:00: Hyperdrive - a p2p file sharing network**  
     by [Mathias Buus Madsen](/speakers.html#mathiasb)
   
     [Hyperdrive](https://www.npmjs.com/package/hyperdrive) is a new project
