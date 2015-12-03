@@ -1,7 +1,7 @@
 # Meetup: December 10, 2015
 
 On December 10, 2015 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
-Please sign up on Meetup to give us a hint how many nodehackers are coming!
+Please sign up on [Meetup](http://www.meetup.com/Munich-Node-js-User-Group/events/227182056/) to give us a hint how many nodehackers are coming!
 
 **Attention! We start already at 6pm.**
 
