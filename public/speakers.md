@@ -128,6 +128,15 @@ We're proud having these speakers on board:
     Wishing for fast server-side JS since 1998, he's really happy it has finally arrived with Node.js. 
     He's using Node.js ubiquitously, even on his RaspberryPi. [@0xPIT](http://www.twitter.com/0xPIT)
 
+*   <a name="larsg"></a>
+    **Lars Gregori**  
+    Lars Gregori [twitter](https://twitter.com/choas) works as Technology
+    Strategist at hybris in Munich as member of the hybris labs team. He is
+    interested in all kinds of new technologies for the Internet of Things (IoT),
+    Android, BLE and NFC, BeagleBone and Raspberry Pi, MQTT and more. Before the
+    computer science degree, he completed an apprenticeship as communication
+    electronics (wireless technology).
+
 *   <a name="mathiasb"></a>
     **Mathias Buus Madsen**  
     Mathias is a Node.js hacker based in Copenhagen who enjoys tinkering with

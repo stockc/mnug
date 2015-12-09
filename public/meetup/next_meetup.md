@@ -34,7 +34,10 @@ On December 10, 2015 we have the following schedule:
 *   **20:00: IoT Chess**  
     by [Lars Gregori](/speakers.html#larsg)
   
-    TBD
+    The Internet of Things (IoT) connects things with the internet and a chess
+    board is also a thing. This talk gives a technical overview and shows how
+    I've done it. You will hear buzzwords like NFC, Microcontroller, MQTT,
+    Node-RED and of course Node.js :)
   
 *   **20:25: How we automated API growth with microservices**  
     by [Jesús Darío Rivera](/speakers.html#jesusr)
