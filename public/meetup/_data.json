@@ -6,9 +6,41 @@
       "schedule": [
       ]
     }
-
   },
   "archive": {
+    "2016_02_20": {
+      "title": "February 20, 2016",
+      "place": "tng",
+      "schedule": [
+        {
+          "title": "NPM as a build tool",
+          "speaker": "Sebastian Schürmann",
+          "info": "http://www.js-workshop-weekend.de/#sebastian"
+
+        },
+        {
+          "title": "Up and running with Gulp.js",
+          "speaker": "Joern Bernhardt",
+          "data": "http://www.js-workshop-weekend.de/#joern"
+        },
+        {
+          "title": "Node.js for embedded systems",
+          "speaker": "Patrick Mulder",
+          "info": "http://www.js-workshop-weekend.de/#patrick"
+        }
+      ]
+    },
+    "2016_02_21": {
+      "title": "February 21, 2016",
+      "place": "tng",
+      "schedule": [
+        {
+          "title": "ECMAScript6 in use with react.js",
+          "speaker": "Wolfram Kriesing",
+          "info": "http://www.js-workshop-weekend.de/#wolfram"
+        }
+      ]
+    },
     "2015_12_10": {
       "title": "December 10, 2015",
       "place": "tng",
