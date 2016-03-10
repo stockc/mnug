@@ -9,6 +9,8 @@ mixin meetup_short(meetup, slug)
                     | by #{ topic.speaker },
                     if topic.video
                         a(href='/videos.html##{ slug }-#{ number }')  Video
+                    if topic.info
+                        a(href='#{ topic.info }')  Info
 
 for meetup, slug in public.meetup._data.archive
     if meetup.title
