@@ -8,15 +8,40 @@
     }
   },
   "archive": {
+    "2016_03_10": {
+      "title": "March 10, 2016 - #jssummit",
+      "place": "Stylight",
+      "schedule": [
+        {
+          "title": "Software Development as a Team Sport",
+          "speaker": "Katya Kempkens",
+          "info": "http://www.munichjs.org/meetups/?event_id=63"
+        },
+        {
+          "title": "Image Segmentation in JavaScript",
+          "speaker": "Bodo Kaiser",
+          "info": "http://www.munichjs.org/meetups/?event_id=63"
+        },
+        {
+          "title": "Anatomy of a large Angular application",
+          "speaker": "Kristian Poslek",
+          "info": "http://www.munichjs.org/meetups/?event_id=63"
+        },
+        {
+          "title": "Building modern APIs with Falcor",
+          "speaker": "Mikołaj Dądela",
+          "info": "http://www.munichjs.org/meetups/?event_id=63"
+        }
+      ]
+    },
     "2016_02_20": {
-      "title": "February 20, 2016",
+      "title": "February 20, 2016 - #jsweekend",
       "place": "tng",
       "schedule": [
         {
           "title": "NPM as a build tool",
           "speaker": "Sebastian Schürmann",
           "info": "http://www.js-workshop-weekend.de/#sebastian"
-
         },
         {
           "title": "Up and running with Gulp.js",
@@ -31,7 +56,7 @@
       ]
     },
     "2016_02_21": {
-      "title": "February 21, 2016",
+      "title": "February 21, 2016 - #jsweekend",
       "place": "tng",
       "schedule": [
         {
