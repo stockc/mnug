@@ -1,9 +1,14 @@
 {
   "upcoming": {
     "next_meetup": {
-      "title": "",
-      "place": "",
+      "title": "April 21, 2016",
+      "place": "einstein",
       "schedule": [
+        {
+          "title": "Software Development as a Team Sport",
+          "speaker": "TODO",
+          "info": "http://www.munichjs.org/meetups/?event_id=63"
+        }
       ]
     }
   },
