@@ -15,19 +15,23 @@ On April 21, 2016 we have the following schedule:
 *   **19:00: Break with Beer & Food**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
   
-*   **20:00: From express to koa - http frameworks**
+*   **20:00: From express to koa - http frameworks**  
     by [Robert Prediger](/speakers.html#robertp)
 
     This session will show you a few http frameworks, mainly from express to
     koa. How they work, a few examples with source code, my personal experiences
     with pros and cons to maybe make your decision a bit easier.
   
-*   **20:45: How we automated API growth with microservices**  
-    by [Jesús Darío Rivera](/speakers.html#jesusr)
+*   **20:45: Going serverless - an overview**  
+    by [Alexander Reelsen](/speakers.html#alexr)
   
-    During the talk we are going to describe the system from outside to inside.
-    This is yet another approach for microservices, that is more about
-    implementation than configuration. [Video](https://youtu.be/CTIamTSaCGA)
+    Since the introduction of AWS lambda and its google/azure counterparts
+    serverless is the new buzzword for application architectures, that scale
+    and are low maintenance. Time to check out the node ecosystem and how node
+    can help to write applications that are serverless. This talk gives a quick
+    overview what serverless means (and what it doesnt), its core concepts, how
+    this changes application development, the different tools to support
+    developers and hopefully a live demo!
   
 *   **21:30: Hyperdrive - a p2p file sharing network**  
     by [Mathias Buus Madsen](/speakers.html#mathiasb)

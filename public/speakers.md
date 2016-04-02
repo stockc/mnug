@@ -18,6 +18,16 @@ We're proud having these speakers on board:
     **Alex Petrov**   
     Made in wild Ukrainian suburbs, SSD in guts, knows how to handle -25°C cold and +42°C hot weather. Zefops, gymops. Clojure / Ruby / C hacker. 
     ClojureWerkz.org core team. Data analysis & visualization nerd.
+
+*   <a name="alexr"></a>
+    **Alexander Reelsen**   
+    Alexander Reelsen is a developer, working for Elastic on Elasticsearch and
+    its commercial extensions by day, hacking on whatever looks interesting at
+    night (node, JVM, scalability, everything test driven). He is also
+    organizing the [Search Meetup Munich](http://www.meetup.com/de-DE/Search-Meetup-Munich/)
+    and [devcampmuc](https://twitter.com/devcampmuc), the first unconference
+    for developers in Munich, that happened in 2015 for the first time. Ping him on
+    twitter [@spinscale](http://www.twitter.com/spinscale).
     
 *   <a name="arnoutk"></a>
     **Arnout Kazemier**
