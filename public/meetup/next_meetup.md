@@ -33,16 +33,17 @@ On April 21, 2016 we have the following schedule:
     this changes application development, the different tools to support
     developers and hopefully a live demo!
   
-*   **21:30: Hyperdrive - a p2p file sharing network**  
-    by [Mathias Buus Madsen](/speakers.html#mathiasb)
+*   **21:30: The past, present and future of ECMAScript modules**  
+    by [Alexander Zeilmann](/speakers.html#alexz)
   
-    [Hyperdrive](https://www.npmjs.com/package/hyperdrive) is a new project
-    that is best described as a p2p open source dropbox build in javascript.
-    It combines a variety of interesting algorithms to support features such
-    as, delta updates, file deduplication and is completely decentralized with
-    no single points of failures. This talk will be a brief introduction to how
-    it works and live demos showcasing some the applications you can use this for.
-    [Video](https://youtu.be/wfwkvtlJU7U)
+    Now, that we have the new and shiny ECMAScript module system it is a
+    good time to look back on the techniques we used as a replacement for a
+    native module system.
+    What advantages and disadvantages they had and what will probably happen
+    to them now.
+    We will look into a few awesome things, you can already do with
+    ECMAScript modules and a few things which are not yet possible, but
+    hopefully are coming in the future.
 
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers

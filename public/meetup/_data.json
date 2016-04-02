@@ -5,9 +5,16 @@
       "place": "einstein",
       "schedule": [
         {
-          "title": "Software Development as a Team Sport",
-          "speaker": "TODO",
-          "info": "http://www.munichjs.org/meetups/?event_id=63"
+          "title": "From express to koa - http frameworks",
+          "speaker": "Robert Prediger"
+        },
+        {
+          "title": "Going serverless - an overview",
+          "speaker": "Alexander Reelsen"
+        },
+        {
+          "title": "The past, present and future of ECMAScript modules",
+          "speaker": "Alexander Zeilmann"
         }
       ]
     }
