@@ -5,16 +5,16 @@
       "place": "einstein",
       "schedule": [
         {
+          "title": "The past, present and future of ECMAScript modules",
+          "speaker": "Alexander Zeilmann"
+        },
+        {
           "title": "From express to koa - http frameworks",
           "speaker": "Robert Prediger"
         },
         {
           "title": "Going serverless - an overview",
           "speaker": "Alexander Reelsen"
-        },
-        {
-          "title": "The past, present and future of ECMAScript modules",
-          "speaker": "Alexander Zeilmann"
         }
       ]
     }

@@ -14,26 +14,8 @@ On April 21, 2016 we have the following schedule:
   
 *   **19:00: Break with Beer & Food**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
-  
-*   **20:00: From express to koa - http frameworks**  
-    by [Robert Prediger](/speakers.html#robertp)
 
-    This session will show you a few http frameworks, mainly from express to
-    koa. How they work, a few examples with source code, my personal experiences
-    with pros and cons to maybe make your decision a bit easier.
-  
-*   **20:45: Going serverless - an overview**  
-    by [Alexander Reelsen](/speakers.html#alexr)
-  
-    Since the introduction of AWS lambda and its google/azure counterparts
-    serverless is the new buzzword for application architectures, that scale
-    and are low maintenance. Time to check out the node ecosystem and how node
-    can help to write applications that are serverless. This talk gives a quick
-    overview what serverless means (and what it doesnt), its core concepts, how
-    this changes application development, the different tools to support
-    developers and hopefully a live demo!
-  
-*   **21:30: The past, present and future of ECMAScript modules**  
+*   **20:00: The past, present and future of ECMAScript modules**  
     by [Alexander Zeilmann](/speakers.html#alexz)
   
     Now, that we have the new and shiny ECMAScript module system it is a
@@ -44,6 +26,24 @@ On April 21, 2016 we have the following schedule:
     We will look into a few awesome things, you can already do with
     ECMAScript modules and a few things which are not yet possible, but
     hopefully are coming in the future.
+  
+*   **20:45: From express to koa - http frameworks**  
+    by [Robert Prediger](/speakers.html#robertp)
+
+    This session will show you a few http frameworks, mainly from express to
+    koa. How they work, a few examples with source code, my personal experiences
+    with pros and cons to maybe make your decision a bit easier.
+  
+*   **21:30: Going serverless - an overview**  
+    by [Alexander Reelsen](/speakers.html#alexr)
+  
+    Since the introduction of AWS lambda and its google/azure counterparts
+    serverless is the new buzzword for application architectures, that scale
+    and are low maintenance. Time to check out the node ecosystem and how node
+    can help to write applications that are serverless. This talk gives a quick
+    overview what serverless means (and what it doesnt), its core concepts, how
+    this changes application development, the different tools to support
+    developers and hopefully a live demo!
 
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers
@@ -51,17 +51,6 @@ On April 21, 2016 we have the following schedule:
 ### When?
  
 Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
- 
+
 ### Where?
 
-**Einstein Kultur**    
-Einsteinstraße 42   
-81675 München   
-
-**We wish you a nice journey:**  
-by U-Bahn: Max-Weber-Platz (U4, U5)   
-by Bus: 190, 191   
-by Streetcar: 15, 16, 19, 25   
-
-<div id="map" class="map" data-locationtext="Einstein Kultur<br/>Einsteinstraße 42<br/>81675 München" data-locationlatlng="48.135507,11.5988778,17" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
-</div>
