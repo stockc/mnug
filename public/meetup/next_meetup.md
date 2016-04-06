@@ -1,7 +1,7 @@
 # Meetup: April 21, 2016
 
 On April 21, 2016 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
-Please sign up on [Meetup](http://www.meetup.com/Munich-Node-js-User-Group/events/227182056/) to give us a hint how many nodehackers are coming!
+Please sign up on [TODO]() to give us a hint how many nodehackers are coming!
 
 **Attention! We meet at a new location. Einstein Kultur**
 
