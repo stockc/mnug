@@ -195,6 +195,14 @@ We're proud having these speakers on board:
     From 2004 - 2010 he was CEO of PAY.ON a Munich based provider of payment gateways. 
     At the moment Robert prepares 2 new ventures.
 
+*   <a name="robertp"></a>
+    **Robert Prediger**  
+    Robert has more than 25 years experience in managing software projects,
+    thereof 20 years experience in Progress development (GUI, AppServer) and more
+    than 15 years experience in developing web- and mobile-applications and
+    portals. Since 2011 he specialized in Node.js. He is the author of the German
+    book [Node.js: Professionell hochperformante Software entwickeln](http://www.amazon.de/dp/3446437223)
+
 *   <a name="simonj"></a>
     **Simon Jost**  
     Simon is a front-end developer at HolidayCheck, where he is responsible for the front-end architecture and the home-grown framework Tready.js. 
