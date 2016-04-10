@@ -12,7 +12,7 @@ On April 21, 2016 we have the following schedule:
 
 *   **18:45: Door open**  
   
-*   **19:00: Break with Beer & Food**  
+*   **19:00: Start with Beer & Food**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
 
 *   **20:00: The past, present and future of ECMAScript modules**  
