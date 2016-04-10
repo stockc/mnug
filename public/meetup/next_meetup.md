@@ -10,7 +10,7 @@ Please sign up on [Meetup](http://www.meetup.com/Munich-Node-js-User-Group/event
 On April 21, 2016 we have the following schedule:
 
 
-*   **18:30: Door open**  
+*   **18:45: Door open**  
   
 *   **19:00: Break with Beer & Food**  
     sponsored by [TNG Technology Consulting](http://www.tngtech.com)
