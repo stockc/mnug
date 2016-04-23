@@ -1,6 +1,15 @@
 {
   "upcoming": {
     "next_meetup": {
+      "title": "",
+      "place": "",
+      "schedule": [
+      ]
+    }
+
+  },
+  "archive": {
+    "2016_04_21": {
       "title": "April 21, 2016",
       "place": "einstein",
       "schedule": [
@@ -17,9 +26,7 @@
           "speaker": "Alexander Reelsen"
         }
       ]
-    }
-  },
-  "archive": {
+    },
     "2016_03_10": {
       "title": "March 10, 2016 - #jssummit",
       "place": "Stylight",
