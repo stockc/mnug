@@ -6,7 +6,6 @@
       "schedule": [
       ]
     }
-
   },
   "archive": {
     "2016_04_21": {
@@ -19,7 +18,8 @@
         },
         {
           "title": "From express to koa - http frameworks",
-          "speaker": "Robert Prediger"
+          "speaker": "Robert Prediger",
+          "video": "https://www.youtube.com/embed/45Qq12CjQhQ"
         },
         {
           "title": "Going serverless - an overview",
