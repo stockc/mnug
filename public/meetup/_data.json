@@ -14,7 +14,8 @@
       "schedule": [
         {
           "title": "The past, present and future of ECMAScript modules",
-          "speaker": "Alexander Zeilmann"
+          "speaker": "Alexander Zeilmann",
+          "video": "https://www.youtube.com/embed/OhaxpogAKsc"
         },
         {
           "title": "From express to koa - http frameworks",
