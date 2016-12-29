@@ -18,7 +18,7 @@ harp server
 ```
 
 
-Exporting a static web site
+Exporting a static web site, like [main latest](http://mnugde.s3-website.eu-central-1.amazonaws.com/).
 
 ```
 cd mnug
