@@ -1,9 +1,21 @@
 {
   "upcoming": {
     "next_meetup": {
-      "title": "",
-      "place": "",
+      "title": "January 12, 2017",
+      "place": "microsoft",
       "schedule": [
+        {
+          "title": "Three things you can do with Node.js on Azure",
+          "speaker": "Dariusz Parys",
+        },
+        {
+          "title": "Gulp as an orchestration tool",
+          "speaker": "Markus Spanier",
+        },
+        {
+          "title": "High-speed ES2015",
+          "speaker": "Benedikt Meurer",
+        }
       ]
     }
   },

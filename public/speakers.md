@@ -32,6 +32,17 @@ We're proud having these speakers on board:
 *   <a name="arnoutk"></a>
     **Arnout Kazemier**
 
+*   <a name="benediktm"></a>
+    **Benedikt Meurer**
+
+    Benedikt joined Google in 2013 to work on the V8 JavaScript VM that powers
+    both Node.js and Chrome. He is currently the tech lead of the JavaScript
+    Execution Optimization team, focusing on the new compiler architecture
+    TurboFan and the performance of new language features. In the past he has
+    been contributing to various different open source projects, including
+    OCaml, Xfce and NetBSD, among others. In his spare time he’s a father of
+    two, enjoys hiking and biking.
+
 *   <a name="bodok"></a>
     **Bodo Kaiser**   
     Originating from a sys admin background node.js was the first real programming language/framework after bash. 
@@ -54,6 +65,10 @@ We're proud having these speakers on board:
 *   <a name="christophs"></a>
     **Christoph Stock**  
     Started coding node for fun and profit back in late 2010. A year later cofounded the Munich Node.js User Group and enjoyed every meetup since then.
+
+*   <a name="dariuszp"></a>
+    **Dariusz Parys**
+    TBD
 
 *   <a name="davida"></a>
     **David Amend**  
@@ -146,6 +161,9 @@ We're proud having these speakers on board:
     Android, BLE and NFC, BeagleBone and Raspberry Pi, MQTT and more. Before the
     computer science degree, he completed an apprenticeship as communication
     electronics (wireless technology).
+
+*   <a name="markuss"></a>
+    **Markus Spanier**
 
 *   <a name="mathiasb"></a>
     **Mathias Buus Madsen**  
