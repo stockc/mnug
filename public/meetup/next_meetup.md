@@ -1,14 +1,15 @@
 # Meetup: January 12, 2017
 
-On January 12, 2017 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
-Please sign up on [Meetup](http://www.meetup.com/Munich-Node-js-User-Group/events/230270288/) to give us a hint how many nodehackers are coming!
+On January 12, 2017 we would like to invite you to our next community meetup of
+the Munich Node.JS User Group.  Please sign up on
+[Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/236587800/) to
+give us a hint how many nodehackers are coming!
 
 **Attention! We meet at a new location. Office of [Microsoft Munich](www.microsoft.de/munich)**
 
 ### What?
 
 On January 12, 2017 we have the following schedule:
-
 
 *   **18:15: Door open**  
   
@@ -20,12 +21,22 @@ On January 12, 2017 we have the following schedule:
   
     Azure has a bunch of different services a Node developer can use. In this talk I'll pick three and hack'em to give you an idea what they are about and how to use them.
   
-*   **19:45: Gulp as an orchestration tool**
+*   **19:45: Gulpify your shell scripts - One way to manage reoccurring tasks on dynamically changing objects**
     by [Markus Spanier](/speakers.html#markuss)
 
-    tbd
+    Most of us have used shell scripts to automate and simplify reoccurring
+    tasks. Though being a very simple approach, shell scripts often become more
+    and more cumbersome with growing size. The problem gets even more complicated
+    if the tasks we want to solve with shell scripts depend on dynamically changing
+    objects. And, by the way, have we talked about testing yet? Have we always
+    written tests for our shell scripts?
+    We give an approach to solve those problems by using node.js scripts instead of shell scripts.
+    In order to solve the problems, we divide our scripts into several small tasks
+    that work on independently managed objects and handle their execution with
+    gulp.js. That way, we have all the tools to write clean code and tests at hand
+    and can also benefit from the vast amount of node.js scripts available.
   
-*   **20:15: High-speed ES2015**
+*   **20:30: High-speed ES2015**
     by [Benedikt Meurer](/speakers.html#benediktm)
 
     ECMAScript 2015 is fully supported by all major JavaScript implementations

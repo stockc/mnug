@@ -163,7 +163,13 @@ We're proud having these speakers on board:
     electronics (wireless technology).
 
 *   <a name="markuss"></a>
-    **Markus Spanier**
+    **Markus Spanier**  
+    Markus Spanier started to work as a Software Consultant for TNG Technology
+    Consulting GmbH right after studying mathematics and computer science in
+    Passau. Most of the time, he works in Java / Spring framework and Angular 2
+    environments but is also very interested in other programming languages, new
+    technologies, and hardware hacking. As a fast and lightweight way to write
+    code, he started to use node.js / TypeScript to automate reoccurring tasks.
 
 *   <a name="mathiasb"></a>
     **Mathias Buus Madsen**  
