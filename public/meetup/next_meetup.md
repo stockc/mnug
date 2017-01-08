@@ -5,7 +5,7 @@ the Munich Node.JS User Group.  Please sign up on
 [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/236587800/) to
 give us a hint how many nodehackers are coming!
 
-**Attention! We meet at a new location. Office of [Microsoft Munich](www.microsoft.de/munich)**
+**Attention! We meet at a new location. Office of [Microsoft Munich](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)**
 
 ### What?
 
@@ -14,7 +14,7 @@ On January 12, 2017 we have the following schedule:
 *   **18:15: Door open**  
   
 *   **18:30: Start with Beer & Food**  
-    sponsored by [Microsoft](www.microsoft.de/munich)
+    sponsored by [Microsoft](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)
 
 *   **19:15: Three things you can do with Node.js on Azure**
     by [Dariusz Parys](/speakers.html#dariuszp)
@@ -52,7 +52,7 @@ On January 12, 2017 we have the following schedule:
 
 ### When?
  
-Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
+Talks starting at 7:15pm. Admission with beer & pizza from 6:30pm.
 
 ### Where?
 
@@ -64,5 +64,5 @@ Walter-Gropius-Straße 5
 by U-Bahn: Nordfriedhof (U6)   
 From there it is a five minute walk. Please use the entrance next to the highway.
 
-<div id="map" class="map" data-locationtext="Microsoft Munich<br/>Walter-Gropius-Straße 5<br/>80807 München" data-locationlatlng="48.1776256,11.591259,17" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
+<div id="map" class="map" data-locationtext="Microsoft Munich<br/>Walter-Gropius-Straße 5<br/>80807 München" data-locationlatlng="48.1771391,11.5925464,17" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
 </div>
