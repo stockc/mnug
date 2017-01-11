@@ -64,11 +64,14 @@ We're proud having these speakers on board:
 
 *   <a name="christophs"></a>
     **Christoph Stock**  
-    Started coding node for fun and profit back in late 2010. A year later cofounded the Munich Node.js User Group and enjoyed every meetup since then.
+    Started coding node for fun and profit back in late 2010. A year later
+    cofounded the Munich Node.js User Group and enjoyed every meetup since then.
 
 *   <a name="dariuszp"></a>
     **Dariusz Parys**
-    TBD
+    Dariusz is a Technical Evangelist at Microsoft working on Web and Cloud
+    related stuff. You can get in touch with Dariusz via Twitter
+    [@writeline](https://twitter.com/writeline) or his [blog](https://pwnd.io)
 
 *   <a name="davida"></a>
     **David Amend**  
