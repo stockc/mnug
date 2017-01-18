@@ -1,6 +1,10 @@
 {
   "upcoming": {
     "next_meetup": {
+    }
+  },
+  "archive": {
+    "2017_01_12": {
       "title": "January 12, 2017",
       "place": "",
       "schedule": [
@@ -17,9 +21,7 @@
           "speaker": "Benedikt Meurer"
         }
       ]
-    }
-  },
-  "archive": {
+    },
     "2016_10_08": {
       "title": "October 8+9, 2016",
       "place": "Virtual Identity AG",

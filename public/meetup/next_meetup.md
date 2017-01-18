@@ -1,68 +1,38 @@
-# Meetup: January 12, 2017
+# Meetup: TBD
 
-On January 12, 2017 we would like to invite you to our next community meetup of
-the Munich Node.JS User Group.  Please sign up on
-[Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/236587800/) to
-give us a hint how many nodehackers are coming!
-
-**Attention! We meet at a new location. Office of [Microsoft Munich](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)**
+On *TBD* we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
+Please sign up on Meetup to give us a hint how many nodehackers are coming!
 
 ### What?
 
-On January 12, 2017 we have the following schedule:
+On *TBD* we have the following schedule:
 
-*   **18:15: Door open**  
+
+*   **19:00: Beer & Pizza**  
+    sponsored by [TNG Technology Consulting](http://www.tngtech.com)
+    
+*   **20:00: TBD**  
+    by TBD
   
-*   **18:30: Start with Beer & Food**  
-    sponsored by [Microsoft](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)
-
-*   **19:15: Three things you can do with Node.js on Azure**
-    by [Dariusz Parys](/speakers.html#dariuszp)
+    TBD
   
-    Azure has a bunch of different services a Node developer can use. In this talk I'll pick three and hack'em to give you an idea what they are about and how to use them.
-  
-*   **19:45: Gulpify your shell scripts - One way to manage reoccurring tasks on dynamically changing objects**
-    by [Markus Spanier](/speakers.html#markuss)
-
-    Most of us have used shell scripts to automate and simplify reoccurring
-    tasks. Though being a very simple approach, shell scripts often become more
-    and more cumbersome with growing size. The problem gets even more complicated
-    if the tasks we want to solve with shell scripts depend on dynamically changing
-    objects. And, by the way, have we talked about testing yet? Have we always
-    written tests for our shell scripts?
-    We give an approach to solve those problems by using node.js scripts instead of shell scripts.
-    In order to solve the problems, we divide our scripts into several small tasks
-    that work on independently managed objects and handle their execution with
-    gulp.js. That way, we have all the tools to write clean code and tests at hand
-    and can also benefit from the vast amount of node.js scripts available.
-  
-*   **20:30: High-speed ES2015**
-    by [Benedikt Meurer](/speakers.html#benediktm)
-
-    ECMAScript 2015 is fully supported by all major JavaScript implementations
-    nowadays, and most of them already support various upcoming features like
-    async/await. Especially Node.js developers can already use most of the
-    ES2015 features without a transpiler like Babel. In this talk we’ll look at
-    the performance of modern language features in V8, how the V8 team is
-    currently improving the performance of ES2015 and later features, and how
-    this will affect Node.js developers in 2017.  
-
-*   **21:45: Close down of MNUG meetup**  
+*   **22:45: Close down of MNUG meetup**  
     by all node hackers
-
+  
 ### When?
  
-Talks starting at 7:15pm. Admission with beer & pizza from 6:30pm.
-
+Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
+ 
 ### Where?
 
-**Microsoft Deutschland GmbH, Geschäftsstelle München**
-Walter-Gropius-Straße 5
-80807 München
+**TNG Technology Consulting GmbH**   
+Betastraße 13a  
+85774 Unterföhring  
 
 **We wish you a nice journey:**  
-by U-Bahn: Nordfriedhof (U6)   
-From there it is a five minute walk. Please use the entrance next to the highway.
+by S-Bahn: Unterföhring (S8)  
+by Bus: Linie 233, Haltestelle Betastraße  
+by Car: There are parking areas on the left side
 
-<div id="map" class="map" data-locationtext="Microsoft Munich<br/>Walter-Gropius-Straße 5<br/>80807 München" data-locationlatlng="48.1771391,11.5925464,17" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
+<div id="map" class="map" data-locationtext="TNG<br/>Betastraße 13a<br/>85774 Unterföhring" data-locationlatlng="48.1861991,11.6547822" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
 </div>
