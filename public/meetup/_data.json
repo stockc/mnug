@@ -4,9 +4,18 @@
     }
   },
   "archive": {
+    "2016_10_08": {
+      "title": "January 21, 2017",
+      "place": "tng",
+      "schedule": [
+        {
+          "info": "https://www.meetup.com/Nodeschool-Munich/events/236819959/?eventId=236819959"
+        }
+      ]
+    },
     "2017_01_12": {
       "title": "January 12, 2017",
-      "place": "",
+      "place": "microsoft",
       "schedule": [
         {
           "title": "Three things you can do with Node.js on Azure",
