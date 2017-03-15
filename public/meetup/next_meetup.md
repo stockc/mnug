@@ -1,4 +1,4 @@
-# Meetup: TBD
+# Meetup: 23rd of March
 
 On 23rd of March we would like to invite you to our next community meetup of the Munich Node.JS User Group at the new office of [Google](http://www.google.de).
 Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/238446218/) to give us a hint how many nodehackers are coming!
