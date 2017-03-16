@@ -26,7 +26,7 @@ On 23rd of March we have the following schedule:
     by [Igor Ivanovic](/speakers.html#igori)
 
     How typescript help us build a Node.js teams which help us scale and get
-    productive teams. Why did we chose typescript ? What challenges did we had?  
+    productive teams. Why did we chose typescript? What challenges did we had?  
   
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers
