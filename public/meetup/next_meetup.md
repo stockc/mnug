@@ -27,7 +27,17 @@ On 23rd of March we have the following schedule:
 
     How typescript help us build a Node.js teams which help us scale and get
     productive teams. Why did we chose typescript? What challenges did we had?  
-  
+
+*   **21:45: Scalable development leveraging node local modules**
+    by [Radu Creosteanu](/speakers.html#raduc)
+
+    Local node modules provide a simple mechanism for encapsulating your code
+    in small independent modules. It is a step which enables the easy upgrade of a
+    module to fully shared across different projects. Combined with Jest the use of
+    local node modules makes automated testing more flexible and reliable. Most
+    important of all, structuring your code base around modules maintains the
+    project structure simple even as the size continues to grow.
+
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers
   

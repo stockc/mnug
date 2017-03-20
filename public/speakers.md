@@ -211,6 +211,10 @@ We're proud having these speakers on board:
     When not coding for @cospired he is probably learning about new languages, data structures, databases, hacking ruby/elixir/Objective-C 
     or cooking up abstracts for talks.
 
+*   <a name="raduc"></a> 
+    **Radu Creosteanu**
+    Radu Creosteanu is CTO at fleetster and co-organizer for JavaScript Coding Nights meetup.
+
 *   <a name="rainerj"></a> 
     **Rainer Jung** 
     Ruby on Rails, JavaScript and Java Developer, Agile-/Scrum-Enthusiast, Musician, Singer, Snowboarder, Biker, Rock-Climber, Driver.  
