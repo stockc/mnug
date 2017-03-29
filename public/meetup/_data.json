@@ -4,6 +4,27 @@
     }
   },
   "archive": {
+    "2017_03_23": {
+      "title": "March 23, 2017",
+      "place": "google",
+      "schedule": [
+        {
+          "title": "TurboFan: A new code generation architecture for V8",
+          "speaker": "Benedikt Meurer",
+          "video": "https://www.youtube.com/embed/M1FBosB5tjM"
+        },
+        {
+          "title": "Node.js development with Typescript",
+          "speaker": "Igor Ivanovic",
+          "video": "https://www.youtube.com/embed/IWT6hVTFX8g"
+        },
+        {
+          "title": "Scalable development leveraging node local modules",
+          "speaker": "Radu Creosteanu",
+          "video": "https://www.youtube.com/embed/03VCoBaVwos"
+        }
+      ]
+    },
     "2016_10_08": {
       "title": "January 21, 2017",
       "place": "tng",
@@ -32,6 +53,7 @@
         }
       ]
     },
+
     "2016_10_08": {
       "title": "October 8+9, 2016",
       "place": "Virtual Identity AG",

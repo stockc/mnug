@@ -212,7 +212,7 @@ We're proud having these speakers on board:
     or cooking up abstracts for talks.
 
 *   <a name="raduc"></a> 
-    **Radu Creosteanu**
+    **Radu Creosteanu** 
     Radu Creosteanu is CTO at fleetster and co-organizer for JavaScript Coding Nights meetup.
 
 *   <a name="rainerj"></a> 
