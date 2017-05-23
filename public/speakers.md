@@ -247,7 +247,7 @@ We're proud having these speakers on board:
     His language of choice is NodeJS since 2012.
 
 *   <a name="venkats"></a>
-    **Dr. Venkat Subramaniam**
+    **Dr. Venkat Subramaniam**  
     Found of [agile developer](https://agiledeveloper.com/) and [agile learner](https://www.agilelearner.com/).
     Dr. Venkat Subramaniam is an award-winning author, founder of Agile
     Developer, Inc., creator of agilelearner.com, and an instructional professor at
@@ -270,4 +270,16 @@ We're proud having these speakers on board:
 
 *   <a name="zlatkod"></a>
     **Zlatko Đurić**  
-    Zlatko Duric is a Node.js developer and a go-to guy for JavaScript questions at ThinxNet.com. There he's working on REST APIs and "online" and "offline" event processing pipelines using Node.js, MongoDB, Redis, RabbitMQ and a few other technologies, and occassionally as nagging the frontend (Polymer) people about "best practices", "reusability" and "separation of concerns" and trying to bribe the devops people into "give me a button to restart the whole pipeline of everything in the universe on a click". Previously Zlatko worked as a consultant, freelancer and an employee on a whole lot of different projects: high-thoughput Node.js/Redis services, a few rewrites (and order-of-magintude speedups) of PHP-based "APIs" to Node.js, building frontend, ie. dashboards in several different frameworks. He's made an amazing number of the usual and unusual mistakes it made him think he can have an interesting JavaScript talk at a Node.js meetup. 
+    Zlatko Duric is a Node.js developer and a go-to guy for JavaScript
+    questions at ThinxNet.com. There he's working on REST APIs and "online" and
+    "offline" event processing pipelines using Node.js, MongoDB, Redis, RabbitMQ
+    and a few other technologies, and occassionally as nagging the frontend
+    (Polymer) people about "best practices", "reusability" and "separation of
+    concerns" and trying to bribe the devops people into "give me a button to
+    restart the whole pipeline of everything in the universe on a click".
+    Previously Zlatko worked as a consultant, freelancer and an employee on a whole
+    lot of different projects: high-thoughput Node.js/Redis services, a few
+    rewrites (and order-of-magintude speedups) of PHP-based "APIs" to Node.js,
+    building frontend, ie. dashboards in several different frameworks. He's made an
+    amazing number of the usual and unusual mistakes it made him think he can have
+    an interesting JavaScript talk at a Node.js meetup. 
