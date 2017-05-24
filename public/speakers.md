@@ -14,6 +14,13 @@ We're proud having these speakers on board:
     **Aaron Michael König**  
     10+ years experience with project management. Software development with JS, iOS, C#. Experience with enterprise customers.
 
+*   <a name="alexanderp"></a>
+    **Alexander Popo**   
+    Regardless of what Google might think, Alexander Pope does *not* write
+    poetry; he mostly writes JavaScript and pushes pixels around. Originally of
+    Canadian extraction, Alexander now works and lives in the wilds of Norway
+    (Oslo), keeping one eye on the sky as he works on the weather for NRK and Yr.no
+
 *   <a name="alexp"></a>
     **Alex Petrov**   
     Made in wild Ukrainian suburbs, SSD in guts, knows how to handle -25°C cold and +42°C hot weather. Zefops, gymops. Clojure / Ruby / C hacker. 
