@@ -255,7 +255,7 @@ We're proud having these speakers on board:
 
 *   <a name="venkats"></a>
     **Dr. Venkat Subramaniam**  
-    Found of [agile developer](https://agiledeveloper.com/) and [agile learner](https://www.agilelearner.com/).
+    Founder of [agile developer](https://agiledeveloper.com/) and [agile learner](https://www.agilelearner.com/).
     Dr. Venkat Subramaniam is an award-winning author, founder of Agile
     Developer, Inc., creator of agilelearner.com, and an instructional professor at
     the University of Houston.  He has trained and mentored thousands of software
