@@ -172,6 +172,15 @@ We're proud having these speakers on board:
     computer science degree, he completed an apprenticeship as communication
     electronics (wireless technology).
 
+*   <a name="lukast"></a>
+    **Lukas Tägert**  
+    After finishing his PhD studying the mathematical properties of black holes,
+    Lukas decided to go for less substance from then on and follow his passion of
+    becoming a software developer. He is now a full-time developer and JavaScript
+    enthusiast at TNG Technology Consulting GmbH where he is working with React and
+    Angular in the frontend and maintains several node servers for their
+    development backend. He also likes to spam on npm occasionally.
+
 *   <a name="markuss"></a>
     **Markus Spanier**  
     Markus Spanier started to work as a Software Consultant for TNG Technology
