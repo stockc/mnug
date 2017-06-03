@@ -2,9 +2,9 @@
 
 On June 22, 2017 we would like to invite you to our next community meetup of
 the Munich Node.JS User Group.  Please sign up on
-[Meetup]() to give us a hint how many nodehackers are coming!
+[Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/240502989/) to give us a hint how many nodehackers are coming!
 
-**Attention! We meet at a new location. Office of [Microsoft Munich](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)**
+**Attention! We meet at the office of [Microsoft Munich](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)**
 
 ### What?
 
@@ -66,4 +66,7 @@ Walter-Gropius-Straße 5
 **We wish you a nice journey:**  
 by U-Bahn: Nordfriedhof (U6)   
 From there it is a five minute walk. Please use the entrance next to the highway.
+</div>
+
+<div id="map" class="map" data-locationtext="TNG<br/>Walter-Gropius-Straße 5a<br/>80807 Mönchen" data-locationlatlng="48.1780478,11.5917907,17" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
 </div>
