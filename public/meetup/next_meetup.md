@@ -15,7 +15,7 @@ On June 22, 2017 we have the following schedule:
 *   **18:30: Start with Beer & Food**  
     sponsored by [Microsoft](https://www.microsoft.com/de-de/aktionen/smart-workspace-in-muenchen-schwabing/default.aspx)
 
-*   **19:15: Node.js, Kubernetes, Cloud: All the Buzzwords Coming Together with Microsoft Azure!**
+*   **19:15: Node.js, Kubernetes, Cloud: All the Buzzwords Coming Together with Microsoft Azure!**  
     by [Patriek van Dorp](/speakers.html#patriekd)
   
     Your Node.js applications will probably be part of a bigger solution,
@@ -25,7 +25,7 @@ On June 22, 2017 we have the following schedule:
     Service to provision a production ready Kubernetes cluster and how you can
     leverage Visual Studio Code to deploy and manage your applications on it.
   
-*   **20:15: Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js**
+*   **20:15: Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js**  
     by [Alexander Pope](/speakers.html#alexanderp)
 
     August 30, 2016, was by all accounts an average Tuesday, and release number
@@ -36,7 +36,7 @@ On June 22, 2017 we have the following schedule:
     tragedy about wasted CPU cycles. This is a cautionary tale about living in the
     age of ServiceWorker.
   
-*   **21:00: Building future-proof npm libraries with rollup.js**
+*   **21:00: Building future-proof npm libraries with rollup.js**  
     by [Lukas Tägert](/speakers.html#lukast)
 
     With node.js servers today, transpiling  and bundling JavaScipt is usually
