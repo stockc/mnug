@@ -10,7 +10,8 @@
       "schedule": [
         {
           "title": "Rediscovering JavaScript",
-          "speaker": "Dr. Venkat Subramaniam"
+          "speaker": "Dr. Venkat Subramaniam",
+          "video": "https://www.youtube.com/embed/jqpkgm0rELs"
         },
         {
           "title": "Keeping your JavaScript Promises",
