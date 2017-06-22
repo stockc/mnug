@@ -174,7 +174,7 @@ We're proud having these speakers on board:
     electronics (wireless technology).
 
 *   <a name="lukast"></a>
-    **Lukas Tägert**  
+    **Lukas Taegert**  
     After finishing his PhD studying the mathematical properties of black holes,
     Lukas decided to go for less substance from then on and follow his passion of
     becoming a software developer. He is now a full-time developer and JavaScript

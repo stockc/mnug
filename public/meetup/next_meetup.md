@@ -37,7 +37,7 @@ On June 22, 2017 we have the following schedule:
     age of ServiceWorker.
   
 *   **21:00: Building future-proof npm libraries with rollup.js**  
-    by [Lukas Tägert](/speakers.html#lukast)
+    by [Lukas Taegert](/speakers.html#lukast)
 
     With node.js servers today, transpiling  and bundling JavaScipt is usually
     entirely optional and will in most cases probably hurt more than help. When
