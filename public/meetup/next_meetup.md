@@ -24,6 +24,7 @@ On June 22, 2017 we have the following schedule:
     This session will be all about how you can leverage Microsoft Azure Container
     Service to provision a production ready Kubernetes cluster and how you can
     leverage Visual Studio Code to deploy and manage your applications on it.
+    [Slides](https://www.slideshare.net/pvandorp/nodejs-kubernetescloud-all-the-buzzwords-coming-together-with-microsoft-azure)
   
 *   **20:15: Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js**  
     by [Alexander Pope](/speakers.html#alexanderp)
