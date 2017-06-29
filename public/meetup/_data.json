@@ -4,6 +4,27 @@
     }
   },
   "archive": {
+    "2017_06_22": {
+      "title": "June, 22, 2017",
+      "place": "tng",
+      "schedule": [
+        {
+          "title": "Node.js, Kubernetes, Cloud: All the Buzzwords Coming Together with Microsoft Azure!",
+          "speaker": "Speaker: Patriek van Dorp",
+          "video": "https://www.youtube.com/embed/MTpYfNEbwW0"
+        },
+        {
+          "title": "Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js",
+          "speaker": "Alexander Pope",
+          "video": ""
+        },
+        {
+          "title": "Building future-proof npm libraries with rollup.js",
+          "speaker": "Dr. Lukas Taegert",
+          "video": ""
+        }
+      ]
+    },
     "2017_06_03": {
       "title": "June, 3, 2017",
       "place": "tng",
