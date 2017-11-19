@@ -86,6 +86,12 @@ We're proud having these speakers on board:
     David Amend is an enterprise Web Developer in Java in the financial business. 
     Since 5 years he is passionate about evaluating frontend architectures and combining existing JavaScript tools to create proven Frameworks.
 
+*   <a name="davidd"></a>
+    **David Dasenbrook**  
+    David Dasenbrook has a PhD in physics and a passion for agile web
+    development. He works for TNG Technology Consulting in Munich and currently
+    modernizes the web frontend for a national telecommunications service provider.
+
 *   <a name="davidm"></a>
     **David Maier**    
     David has a strong Database and Software Engineering background. 
@@ -206,6 +212,13 @@ We're proud having these speakers on board:
 
 *   <a name="maximilians"></a>
     **Maximilian Schweitzer**  
+
+*   <a name="michaelh"></a>
+    **Michael H&auml;uslmann**  
+    Michael Häuslmann has been a freelance developer working on PHP,
+    JavaScript and Java projects before joining TNG to work on enterprise
+    scale software. He is the maintainer of the dePHPend architecture
+    testing tool and an active speaker at several international conferences.
 
 *   <a name="patrickb"></a>
     **Patrick Bürgin**  

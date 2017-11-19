@@ -1,20 +1,43 @@
-# Meetup: TBD
+# Meetup: November 30, 2017
 
-On *TBD* we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
+On 30th of November 2017 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
 Please sign up on Meetup to give us a hint how many nodehackers are coming!
 
 ### What?
 
-On *TBD* we have the following schedule:
+On 30th of November we have the following schedule:
 
 
 *   **19:00: Beer & Pizza**  
-    sponsored by [TNG Technology Consulting](http://www.tngtech.com)
+    sponsored by [BTD](http://www.tngtech.com)
     
-*   **20:00: TBD**  
-    by TBD
+*   **20:00: Stronger together – using domain-driven design (DDD) and wolkenkit**  
+    by [Golo Roden](/speakers.html#golor)
   
-    TBD
+    For the development of complex software an interdisciplinary team is
+    required. Unfortunately, we have never learned to communicate across
+    disciplines. This makes it difficult for domain experts, developers and
+    designers to understand each other – which is ultimately reflected in the
+    software that solves the wrong problem, arrives on the market too late and
+    whose quality is not right. Domain-driven design (DDD) focuses on the
+    development of a common language and promises to improve interdisciplinary
+    communication. But how does DDD work? Golo Roden introduces you to the concept
+    and shows how to implement the result in JavaScript using wolkenkit, an
+    open-source framework that complements DDD perfectly.
+
+*   **21:00: TypeScript In Depth**  
+    by [Michael H&auml;uslmann](/speakers.html#michaelh) and [David Dasenbrook](/speakers.html#davidd)
+  
+    We all love JavaScript. It is hip, dynamic, and fun. But when your
+    codebase grows and your product passes past the stage of a mere
+    prototype, you quickly realise that not all is well in paradise. Enter
+    TypeScript, a mature solution for type-safe JavaScript that has recently
+    made a couple of leaps ahead and incorporated some of the selling points
+    of the new kid on the block, its main competitor, Flow. We compare
+    TypeScript's and Flow's type systems, review some of the newer features
+    of TypeScript, and show how you can easily integrate TypeScript into
+    existing code bases.
+    
   
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers
@@ -25,14 +48,18 @@ Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
  
 ### Where?
 
-**TNG Technology Consulting GmbH**   
-Betastraße 13a  
-85774 Unterföhring  
-
+**TBD**   
+B
+8
+  
+*   **22:00: Close down of MNUG meetup**  
+    by all node hackers
+  
+### When?
+ 
+Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
+ 
 **We wish you a nice journey:**  
 by S-Bahn: Unterföhring (S8)  
 by Bus: Linie 233, Haltestelle Betastraße  
 by Car: There are parking areas on the left side
-
-<div id="map" class="map" data-locationtext="TNG<br/>Betastraße 13a<br/>85774 Unterföhring" data-locationlatlng="48.1861991,11.6547822" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
-</div>
