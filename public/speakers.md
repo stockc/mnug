@@ -129,11 +129,14 @@ We're proud having these speakers on board:
 
 *   <a name="golor"></a>
     **Golo Roden**  
-    [Golo Roden](http://www.goloroden.de/) is a freelance broadcaster of knowledge and technology consultant for web technologies, code quality and agile methods. 
-    He advises companies on these topics to help them evaluate, explore and apply suitable technologies and methods. 
-    In addition to this, he works as a journalist for various trade publications and as a speaker and content manager for conferences at home and abroad. 
-    Microsoft has awarded Golo the Most Valuable Professional (MVP) for C# accolade twice in recognition of his excellent work in the community. 
-    Additionally, he is the author of the first German book on [Node.js](http://www.amazon.de/dp/389864829X).
+    [Golo Roden](https://twitter.com/goloroden) is the founder and CTO of [the
+    native web GmbH](http://thenativeweb.io/), a company focused on web and cloud
+    technologies. He favors JavaScript and Node.js for developing web applications,
+    and he has written the first book in German language on this topic, called
+    „Node.js & Co.“. Additionally, he works as an author for various IT magazines,
+    and as a speaker and content manager for several conferences. For his
+    high-quality engagement in the community he was given the Microsoft MVP award
+    four times.
 
 *   <a name="igori"></a>
     **Igor Ivanovic**  
