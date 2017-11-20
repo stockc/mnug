@@ -9,7 +9,7 @@ On 30th of November we have the following schedule:
 
 
 *   **19:00: Beer & Pizza**  
-    sponsored by [BTD](http://www.tngtech.com)
+    sponsored by [Interhyp Gruppe](https://www.interhyp-gruppe.de/)
     
 *   **20:00: Stronger together – using domain-driven design (DDD) and wolkenkit**  
     by [Golo Roden](/speakers.html#golor)
@@ -48,10 +48,11 @@ Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
  
 ### Where?
 
-**TBD**   
-B
-8
-  
+**Interhyp Gruppe**
+Wilhelm-Wagenfeld-Straße 8
+80807 München
+Eingang 2. Stock.
+
 *   **22:00: Close down of MNUG meetup**  
     by all node hackers
   
@@ -63,3 +64,6 @@ Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
 by S-Bahn: Unterföhring (S8)  
 by Bus: Linie 233, Haltestelle Betastraße  
 by Car: There are parking areas on the left side
+
+<div id="map" class="map" data-locationtext="Interhyp Gruppe<br/>Wilhelm-Wagenfeld-Straße 8<br/>80807 München" data-locationlatlng="48.1828625,11.5906645,17z" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
+</div>
