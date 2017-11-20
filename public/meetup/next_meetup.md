@@ -7,7 +7,6 @@ Please sign up on Meetup to give us a hint how many nodehackers are coming!
 
 On 30th of November we have the following schedule:
 
-
 *   **18:30: Door open**  
     at [Interhyp Gruppe](https://www.interhyp-gruppe.de/)
     
@@ -40,7 +39,6 @@ On 30th of November we have the following schedule:
     TypeScript's and Flow's type systems, review some of the newer features
     of TypeScript, and show how you can easily integrate TypeScript into
     existing code bases.
-    
   
 *   **22:45: Close down of MNUG meetup**  
     by all node hackers
@@ -56,17 +54,11 @@ Wilhelm-Wagenfeld-Straße 8
 80807 München
 Eingang 2. Stock.
 
-*   **22:00: Close down of MNUG meetup**  
-    by all node hackers
-  
-### When?
- 
-Talks starting at 8:00pm. Admission with beer & pizza from 7pm.
- 
 **We wish you a nice journey:**  
-by S-Bahn: Unterföhring (S8)  
-by Bus: Linie 233, Haltestelle Betastraße  
-by Car: There are parking areas on the left side
+by U-Bahn: Alte Heide (U6)  
+by Bus: Linie 50, Haltestelle Gertrud-Grunow-Straße
+by Tram: Linie 23, Haltestelle Domagkstraße
+by Car: Car park in the same building
 
 <div id="map" class="map" data-locationtext="Interhyp Gruppe<br/>Wilhelm-Wagenfeld-Straße 8<br/>80807 München" data-locationlatlng="48.1828625,11.5906645,17z" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
 </div>
