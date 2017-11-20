@@ -8,10 +8,13 @@ Please sign up on Meetup to give us a hint how many nodehackers are coming!
 On 30th of November we have the following schedule:
 
 
-*   **19:00: Beer & Pizza**  
+*   **18:30: Door open**  
+    at [Interhyp Gruppe](https://www.interhyp-gruppe.de/)
+    
+*   **18:45: Beer & Pizza**  
     sponsored by [Interhyp Gruppe](https://www.interhyp-gruppe.de/)
     
-*   **20:00: Stronger together – using domain-driven design (DDD) and wolkenkit**  
+*   **19:30: Stronger together – using domain-driven design (DDD) and wolkenkit**  
     by [Golo Roden](/speakers.html#golor)
   
     For the development of complex software an interdisciplinary team is
@@ -25,7 +28,7 @@ On 30th of November we have the following schedule:
     and shows how to implement the result in JavaScript using wolkenkit, an
     open-source framework that complements DDD perfectly.
 
-*   **21:00: TypeScript In Depth**  
+*   **20:30: TypeScript In Depth**  
     by [Michael H&auml;uslmann](/speakers.html#michaelh) and [David Dasenbrook](/speakers.html#davidd)
   
     We all love JavaScript. It is hip, dynamic, and fun. But when your
