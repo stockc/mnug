@@ -56,5 +56,5 @@ by Bus: Linie 50, Haltestelle Gertrud-Grunow-Straße
 by Tram: Linie 23, Haltestelle Domagkstraße
 by Car: Car park in the same building
 
-<div id="map" class="map" data-locationtext="Interhyp Gruppe<br/>Wilhelm-Wagenfeld-Straße 8<br/>80807 München" data-locationlatlng="48.1828625,11.5906645" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
+<div id="map" class="map" data-locationtext="Interhyp Gruppe<br/>Wilhelm-Wagenfeld-Straße 8<br/>80807 München" data-locationlatlng="48.1827367,11.591846,18z" style="width: 500px; height:500px; position: relative; background-color: rgb(229, 227, 223);">
 </div>
