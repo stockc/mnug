@@ -1,7 +1,7 @@
 # Meetup: November 30, 2017
 
 On 30th of November 2017 we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
-Please sign up on Meetup to give us a hint how many nodehackers are coming!
+Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/245306047/) to give us a hint how many nodehackers are coming!
 
 ### What?
 
@@ -52,7 +52,7 @@ Eingang 2. Stock.
 
 **We wish you a nice journey:**  
 by U-Bahn: Alte Heide (U6)  
-by Bus: Linie 50, Haltestelle Gertrud-Grunow-Straße
+by Bus: Linie 50, Haltestelle Gertrud-Grunow-Straße  
 by Tram: Linie 23, Haltestelle Domagkstraße
 by Car: Car park in the same building
 
