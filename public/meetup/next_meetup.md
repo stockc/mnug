@@ -32,7 +32,7 @@ On 30th of November we have the following schedule:
   
     TBD
 
-*   **20:50: TBD**  
+*   **20:50: Refactor Architecture**  
     by [Michael H&auml;uslmann](/speakers.html#michaelh)
   
     TBD
