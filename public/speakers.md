@@ -156,6 +156,7 @@ We're proud having these speakers on board:
     Passionate about Free Software and the Free Internet.
 
 *   <a name="johannese"></a>
+    <a name="michaelj"></a>
     **Johannes Ewald, Michael Jaser and Paul Torka**  
     [Johannes](https://twitter.com/jhnnns), [Michael](https://twitter.com/mmeaku) and [Paul](https://twitter.com/topaspook) 
     founded [peerigon](http://peerigon.com/) with their friend Stephan Batteiger in 2012. 

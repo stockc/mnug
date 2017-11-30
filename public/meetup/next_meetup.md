@@ -13,19 +13,6 @@ On 30th of November we have the following schedule:
 *   **18:45: Beer & Pizza**  
     sponsored by [Interhyp Gruppe](https://www.interhyp-gruppe.de/)
     
-<!-- *   **19:30: Stronger together – using domain-driven design (DDD) and wolkenkit**  
-    by [Golo Roden](/speakers.html#golor)
-  
-    For the development of complex software an interdisciplinary team is
-    required. Unfortunately, we have never learned to communicate across
-    disciplines. This makes it difficult for domain experts, developers and
-    designers to understand each other – which is ultimately reflected in the
-    software that solves the wrong problem, arrives on the market too late and
-    whose quality is not right. Domain-driven design (DDD) focuses on the
-    development of a common language and promises to improve interdisciplinary
-    communication. But how does DDD work? Golo Roden introduces you to the concept
-    and shows how to implement the result in JavaScript using wolkenkit, an
-    open-source framework that complements DDD perfectly. -->
 
 *   **19:33: TypeScript In Depth**  
     by [Michael H&auml;uslmann](/speakers.html#michaelh) and [David Dasenbrook](/speakers.html#davidd)
@@ -39,6 +26,16 @@ On 30th of November we have the following schedule:
     TypeScript's and Flow's type systems, review some of the newer features
     of TypeScript, and show how you can easily integrate TypeScript into
     existing code bases.
+
+*   **20:30: JavaScript - Roadtrip**  
+    by [Michael Jaser](/speakers.html#michaelj)
+  
+    TBD
+
+*   **20:50: TBD**  
+    by [Michael H&auml;uslmann](/speakers.html#michaelh)
+  
+    TBD
   
 *   **22:00: Door closing**  
     by all node hackers
