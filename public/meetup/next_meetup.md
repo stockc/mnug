@@ -30,7 +30,13 @@ On 30th of November we have the following schedule:
 *   **20:30: JavaScript - Roadtrip**  
     by [Michael Jaser](/speakers.html#michaelj)
   
-    TBD
+    JavaScript left your browser to rule your car. It's possible to build an
+    in-car infotainment system using open web technology. This talk is about our
+    experience with building such a system for the Munich based electric car
+    startup Sono Motors. It covers all your favourite topics like DDD (Deadline
+    Driven Development) and the ancient CAN protocol. Your first step towards your
+    autonomous car running JavaScript!
+
 
 *   **20:50: Refactor Architecture**  
     by [Michael H&auml;uslmann](/speakers.html#michaelh)
