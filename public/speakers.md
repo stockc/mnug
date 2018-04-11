@@ -143,7 +143,7 @@ We're proud having these speakers on board:
     NodeJS Architect / Team Lead at CupoNation
 
 *   <a name="ingob"></a>
-    **Ingo Bürg**  
+    **Ingo Bürk**  
     Ingo works as a software consultant at TNG Technology Consulting GmbH
     and has been a JavaScript enthusiast since childhood with a professional focus
     on Java and Angular-based frontend work. He also loves all things open source
