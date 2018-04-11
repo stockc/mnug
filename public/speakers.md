@@ -129,18 +129,26 @@ We're proud having these speakers on board:
 
 *   <a name="golor"></a>
     **Golo Roden**  
-    [Golo Roden](https://twitter.com/goloroden) is the founder and CTO of [the
-    native web GmbH](http://thenativeweb.io/), a company focused on web and cloud
+    [Golo Roden](https://twitter.com/goloroden) is the founder and CTO of the
+    native web GmbH (http://thenativeweb.io/), a company focused on web and cloud
     technologies. He favors JavaScript and Node.js for developing web applications,
     and he has written the first book in German language on this topic, called
     „Node.js & Co.“. Additionally, he works as an author for various IT magazines,
     and as a speaker and content manager for several conferences. For his
     high-quality engagement in the community he was given the Microsoft MVP award
-    four times.
+    four times.  
 
 *   <a name="igori"></a>
     **Igor Ivanovic**  
     NodeJS Architect / Team Lead at CupoNation
+
+*   <a name="ingob"></a>
+    **Ingo Bürg**  
+    Ingo works as a software consultant at TNG Technology Consulting GmbH
+    and has been a JavaScript enthusiast since childhood with a professional focus
+    on Java and Angular-based frontend work. He also loves all things open source
+    and authored and maintains a few different projects
+    [Github](https://github.com/Airblader/).
 
 *   <a name="jesusr"></a>
     **Jesus Dario**  

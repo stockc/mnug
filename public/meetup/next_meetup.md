@@ -22,7 +22,10 @@ On 23rd of April we have the following schedule:
 *   **20:30: Reactive Programming with rxjs**  
     by [Ingo Bürk](/speakers.html#ingob)
   
-    [rxjs](http://reactivex.io/rxjs/)
+    [rxjs](http://reactivex.io/rxjs/) is the JavaScript implementation of the
+    ReactiveX library which became more popular and important due to its extensive
+    application in Angular. But what are observables, how do they work and what
+    problems can we solve with them?
   
 *   **22:00: Door closing**  
     by all node hackers
