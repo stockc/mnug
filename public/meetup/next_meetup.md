@@ -8,10 +8,10 @@ Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/even
 On 30th of November we have the following schedule:
 
 *   **18:30: Door open**  
-    at [Retail Hub](https://www.retailtechhub.com/)
+    at [Retail Hub](http://www.retailtechhub.com/)
     
 *   **18:45: Beer & Pizza**  
-    sponsored by [Retail Hub](https://www.retailtechhub.com/)
+    sponsored by [Retail Hub](http://www.retailtechhub.com/)
     
 
 *   **19:33: Feathers**  
@@ -37,3 +37,4 @@ Haus 19
 **We wish you a nice journey:**  
 by U-Bahn: Karl-Preis-Platz (U2)
 by Bus: Linie 145, Haltestelle Karl-Preis-Platz
+
