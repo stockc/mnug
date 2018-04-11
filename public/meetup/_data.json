@@ -4,13 +4,33 @@
     }
   },
   "archive": {
+    "2017_11_30": {
+      "title": "November, 30, 2017",
+      "place": "interhyp",
+      "schedule": [
+        {
+          "title": "TypeScript In Depth",
+          "speaker": "Michael Häuslmann, David Dasenbrook",
+          "video": "https://www.youtube.com/embed/OZHgxFjP0eE"
+        },
+        {
+          "title": "JavaScript - Roadtrip",
+          "speaker": "Michael Jaser"
+        },
+        {
+          "title": "Building future-proof npm libraries with rollup.js",
+          "speaker": "Michael Häuslmann",
+          "video": "https://www.youtube.com/embed/CrocjuFVtSc"
+        }
+      ]
+    },
     "2017_06_22": {
       "title": "June, 22, 2017",
       "place": "tng",
       "schedule": [
         {
           "title": "Node.js, Kubernetes, Cloud: All the Buzzwords Coming Together with Microsoft Azure!",
-          "speaker": "Speaker: Patriek van Dorp",
+          "speaker": "Patriek van Dorp",
           "video": "https://www.youtube.com/embed/MTpYfNEbwW0"
         },
         {
