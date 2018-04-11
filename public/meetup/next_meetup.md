@@ -5,7 +5,7 @@ Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/even
 
 ### What?
 
-On 30th of November we have the following schedule:
+On 23rd of April we have the following schedule:
 
 *   **18:30: Door open**  
     at [Retail Hub](http://www.retailtechhub.com/)
