@@ -35,12 +35,12 @@ On 23rd of April we have the following schedule:
   
 ### Where?
 
-**Retail Hub**
-Balanstraße 73
-Haus 19
-81541 München
+**Retail Hub**  
+Balanstraße 73  
+Haus 19  
+81541 München  
 
 **We wish you a nice journey:**  
-by U-Bahn: Karl-Preis-Platz (U2)
-by Bus: Linie 145, Haltestelle Karl-Preis-Platz
+by U-Bahn: Karl-Preis-Platz (U2)  
+by Bus: Linie 145, Haltestelle Karl-Preis-Platz  
 
