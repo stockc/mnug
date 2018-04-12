@@ -222,6 +222,13 @@ We're proud having these speakers on board:
     8+ years experience with software development. JS, Node, and AWS as focus. Experience with enterprise customers. 
     [Github](https://github.com/mpneuried)
 
+*   <a name="maxg"></a>
+    **Max Gerer**  
+    Max Gerer is CTO and cofounder of [e-bot7 GmbH](https://e-bot7.de/), a
+    Munich based startup providing artificial intelligence for customer service
+    applications. Node.js plays a central role in their stack as a thin
+    communication layer coordinating various microservices at scale.
+
 *   <a name="maximilians"></a>
     **Maximilian Schweitzer**  
 

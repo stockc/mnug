@@ -14,10 +14,13 @@ On 23rd of April we have the following schedule:
     sponsored by [Retail Hub](http://www.retailtechhub.com/)
     
 
-*   **19:33: Feathers**  
+*   **19:30: Realtime APIs with Feathers**  
     by [Max Gerer](/speakers.html#maxg)
  
-    [Feathers](https://feathersjs.com/)
+    At its core, [Feathers](https://feathersjs.com/) is a set of tools and an
+    architecture pattern that make it easy to create scalable REST APIs and
+    real-time applications. With Feathers, you can literally build prototypes in
+    minutes and production-ready apps in days.
 
 *   **20:30: Reactive Programming with rxjs**  
     by [Ingo Bürk](/speakers.html#ingob)
