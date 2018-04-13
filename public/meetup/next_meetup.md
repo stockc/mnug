@@ -20,7 +20,8 @@ On 23rd of April we have the following schedule:
     At its core, [Feathers](https://feathersjs.com/) is a set of tools and an
     architecture pattern that make it easy to create scalable REST APIs and
     real-time applications. With Feathers, you can literally build prototypes in
-    minutes and production-ready apps in days.
+    minutes and production-ready apps in days. Max Gerer is CTO of [e-bot7 GmbH](https://e-bot7.de)
+    where they us Feathers constantly.
 
 *   **20:30: Reactive Programming with rxjs**  
     by [Ingo Bürk](/speakers.html#ingob)
