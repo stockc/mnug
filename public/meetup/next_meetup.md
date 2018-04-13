@@ -8,10 +8,10 @@ Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/even
 On 23rd of April we have the following schedule:
 
 *   **18:30: Door open**  
-    at [Retail Hub](http://www.retailtechhub.com/)
+    at [Retailtech Hub](http://www.retailtechhub.com/)
     
 *   **18:45: Beer & Pizza**  
-    sponsored by [Retail Hub](http://www.retailtechhub.com/)
+    sponsored by [Retailtech Hub](http://www.retailtechhub.com/)
     
 
 *   **19:30: Realtime APIs with Feathers**  
@@ -35,7 +35,7 @@ On 23rd of April we have the following schedule:
   
 ### Where?
 
-**Retail Hub**  
+**Retailtech Hub**  
 Balanstraße 73  
 Haus 19  
 81541 München  
