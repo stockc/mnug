@@ -4,6 +4,21 @@
     }
   },
   "archive": {
+    "2018_04_23": {
+      "title": "April, 23, 2018",
+      "place": "retailtechhub",
+      "schedule": [
+        {
+          "title": "Realtime APIs with Feathers",
+          "speaker": "Max Gerer"
+        },
+        {
+          "title": "Reactive Programming with rxjs",
+          "speaker": "Ingo Bürk"
+        }
+      ]
+    },
+  "archive": {
     "2017_11_30": {
       "title": "November, 30, 2017",
       "place": "interhyp",
