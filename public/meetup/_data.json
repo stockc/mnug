@@ -10,11 +10,13 @@
       "schedule": [
         {
           "title": "Realtime APIs with Feathers",
-          "speaker": "Max Gerer"
+          "speaker": "Max Gerer",
+          "video": "https://www.youtube.com/embed/MyMqPSIF1Ao"
         },
         {
           "title": "Reactive Programming with rxjs",
-          "speaker": "Ingo Bürk"
+          "speaker": "Ingo Bürk",
+          "video": "https://www.youtube.com/embed/ta0HxnI2Bo0"
         }
       ]
     },

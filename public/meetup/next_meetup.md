@@ -1,11 +1,11 @@
-# Meetup: May 7, 2018
+# Meetup: June 13, 2018
 
-On 7th of May we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
+On 13th of June we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
 Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/249664004/) to give us a hint how many nodehackers are coming!
 
 ### What?
 
-On 7th of May we have the following schedule:
+On 13th of June we have the following schedule:
 
 
 *   **18:00: Doors open**
