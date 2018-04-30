@@ -10,7 +10,7 @@ On 13th of June we have the following schedule:
 
 *   **18:00: Doors open**
     
-*   **18:30: Beer and Pizze**  
+*   **18:30: Beer and Pizza**  
     sponsored by [TNG](https://www.tngtech.com/en.html)
 
 *   **19:15: Stronger together, part 1: Domain-driven design (DDD)**  
