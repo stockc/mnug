@@ -35,11 +35,11 @@ On 13th of June we have the following schedule:
 ### Where?
 
 **TNG Technology Consulting GmbH**   
-Betastraße 13a  
-85774 Unterföhring  
+Arabellastrasse 4a
+81925 München
 
 **We wish you a nice journey:**  
-by S-Bahn: Unterföhring (S8)  
-by Bus: Linie 233, Haltestelle Betastraße  
-by Car: There are parking areas on the left side
+by U-Bahn: Arabellapark (U4)  
+by Tram: Linie 17, Haltestelle Effnerplatz
+by Bus: Linie 59, Haltestelle Effnerplatz
 
