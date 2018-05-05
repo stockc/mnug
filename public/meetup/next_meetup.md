@@ -8,7 +8,9 @@ Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/even
 On 13th of June we have the following schedule:
 
 
-*   **18:00: Doors open**
+*   **18:00: Doors open**  
+
+    [Please note we have a new location in the Arabellastrasse 4a, next to the BayWa-Tower](https://www.tngtech.com/kontakt-und-impressum.html)
     
 *   **18:30: Beer and Pizza**  
     sponsored by [TNG](https://www.tngtech.com/en.html)
