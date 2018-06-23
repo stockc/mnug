@@ -4,8 +4,22 @@
     }
   },
   "archive": {
+    "2018_06_13": {
+      "title": "June 13, 2018",
+      "place": "retailtechhub",
+      "schedule": [
+        {
+          "title": "Domain-driven design (DDD)",
+          "speaker": "Golo Roden"
+        },
+        {
+          "title": "wolkenkit",
+          "speaker": "Golo Roden"
+        }
+      ]
+    },
     "2018_04_23": {
-      "title": "April, 23, 2018",
+      "title": "April 23, 2018",
       "place": "retailtechhub",
       "schedule": [
         {
@@ -21,7 +35,7 @@
       ]
     },
     "2017_11_30": {
-      "title": "November, 30, 2017",
+      "title": "November 30, 2017",
       "place": "interhyp",
       "schedule": [
         {
@@ -41,7 +55,7 @@
       ]
     },
     "2017_06_22": {
-      "title": "June, 22, 2017",
+      "title": "June 22, 2017",
       "place": "tng",
       "schedule": [
         {
@@ -62,7 +76,7 @@
       ]
     },
     "2017_06_03": {
-      "title": "June, 3, 2017",
+      "title": "June 3, 2017",
       "place": "tng",
       "schedule": [
         {
