@@ -10,11 +10,13 @@
       "schedule": [
         {
           "title": "Domain-driven design (DDD)",
-          "speaker": "Golo Roden"
+          "speaker": "Golo Roden",
+          "video": "https://www.youtube.com/embed/B5uoLWZv0AA"
         },
         {
           "title": "wolkenkit",
-          "speaker": "Golo Roden"
+          "speaker": "Golo Roden",
+          "video": "https://www.youtube.com/embed/yAnzic2yGaQ"
         }
       ]
     },
