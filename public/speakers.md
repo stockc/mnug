@@ -36,7 +36,14 @@ We're proud having these speakers on board:
     and [devcampmuc](https://twitter.com/devcampmuc), the first unconference
     for developers in Munich, that happened in 2015 for the first time. Ping him on
     twitter [@spinscale](http://www.twitter.com/spinscale).
-    
+
+*   <a name="andreasg"></a>
+    **Andreas Greimel**
+    Andreas Greimel studied computer science at the TU Munich and currently works
+    as a Software Consultant at TNG Technology Consulting.
+    He enjoys trying out the latest web technologies while working on the
+    Robotic Operating System (ROS) for a german automotive supplier.
+
 *   <a name="arnoutk"></a>
     **Arnout Kazemier**
 
