@@ -1,4 +1,4 @@
-# The Node.JS User Group Munich
+# Munich Node.JS User Group
 
 ![Gruppenfoto](/downloads/20111201_participants.png)
 
