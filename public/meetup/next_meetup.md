@@ -30,7 +30,7 @@ On 13th of June we have the following schedule:
     In this talk we will create a REST-API from scratch, including data model
     and rights management, and walk through the individual features of LoopBack.
 
-*   **20:50: Quantum Nonlinearity for Node.JS Hackers**  
+*   **20:50: Quantum Nonlocality for Node.JS Hackers**  
     by [David Dasenbrook](/speakers.html#davidd)
 
     Are you a JavaScript developer who has always wondered how the strange
