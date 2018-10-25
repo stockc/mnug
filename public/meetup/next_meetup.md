@@ -15,7 +15,7 @@ On 13th of June we have the following schedule:
 *   **18:30: Beer and Pizza**  
     sponsored by [TNG](https://www.tngtech.com/en.html)
 
-*   **19:15: Introduction to Node 11**  
+*   **19:15: Quick overview: Node 11**  
     by [Andreas Greimel](/speakers.html#andreasg)
 
 *   **19:25: Introduction to Loopback**  
