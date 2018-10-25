@@ -8,17 +8,17 @@ Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/even
 On 13th of June we have the following schedule:
 
 
-*   **18:00: Doors open**  
+*   **18:30: Doors open**  
 
     [Please note we have a new location in the Arabellastrasse 4a, next to the BayWa-Tower](https://www.tngtech.com/kontakt-und-impressum.html)
     
-*   **18:30: Beer and Pizza**  
+*   **18:45: Beer and Pizza**  
     sponsored by [TNG](https://www.tngtech.com/en.html)
 
-*   **19:15: Quick overview: Node 11**  
+*   **19:15: Quick overview: Node 10 vs Node 11**  
     by [Andreas Greimel](/speakers.html#andreasg)
 
-*   **19:25: Introduction to Loopback**  
+*   **19:20: Introduction to Loopback**  
     by [Andreas Greimel](/speakers.html#andreasg)
 
     LoopBack is an open source framework to quickly create REST-APIs in Node.js. The framework promises:
