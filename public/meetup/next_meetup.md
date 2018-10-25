@@ -15,7 +15,10 @@ On 13th of June we have the following schedule:
 *   **18:30: Beer and Pizza**  
     sponsored by [TNG](https://www.tngtech.com/en.html)
 
-*   **19:15: Introduction to Loopback**  
+*   **19:15: Introduction to Node 11**  
+    by [Andreas Greimel](/speakers.html#andreasg)
+
+*   **19:25: Introduction to Loopback**  
     by [Andreas Greimel](/speakers.html#andreasg)
 
     LoopBack is an open source framework to quickly create REST-APIs in Node.js. The framework promises:
@@ -27,7 +30,7 @@ On 13th of June we have the following schedule:
     In this talk we will create a REST-API from scratch, including data model
     and rights management, and walk through the individual features of LoopBack.
 
-*   **20:45: Quantum Physics for Node.JS Hackers**  
+*   **20:25: Quantum Physics for Node.JS Hackers**  
     by [David Dasenbrook](/speakers.html#davidd)
 
     Are you a JavaScript developer who has always wondered how the strange
