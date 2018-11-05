@@ -4,9 +4,25 @@
     }
   },
   "archive": {
+    "2018_10_25": {
+      "title": "October 25, 2018",
+      "place": "ara4a",
+      "schedule": [
+        {
+          "title": "Introduction to Loopback",
+          "speaker": "Andreas Greimel",
+          "video": "https://www.youtube.com/embed/T1RgIHJLvuU"
+        },
+        {
+          "title": "Quantum Nonlocality for Node.JS Hackers",
+          "speaker": "David Dasenbrook",
+          "video": "https://www.youtube.com/embed/j8I7JvN1c8g"
+        }
+      ]
+    },
     "2018_06_13": {
       "title": "June 13, 2018",
-      "place": "retailtechhub",
+      "place": "ara4a",
       "schedule": [
         {
           "title": "Domain-driven design (DDD)",
