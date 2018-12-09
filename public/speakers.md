@@ -224,6 +224,13 @@ We're proud having these speakers on board:
     are trying to change the way people share and contribute
     to large datasets.
 
+*   <a name="mathiasbu"></a>
+    **Mathias Burger**  
+    Mathias Burger is Senior Consultant at TNG Technology Consulting GmbH with
+    focus on AI. Currently he is building AI models for the aerospace industry. He
+    started web programming in his youth and is excited about the current advances
+    in web technology.
+
 *   <a name="mathiasp"></a>
     **Mathias Peter**  
     8+ years experience with software development. JS, Node, and AWS as focus. Experience with enterprise customers. 
@@ -266,6 +273,10 @@ We're proud having these speakers on board:
     Being fascinated by it's approach to solve concurrency issues he, has been building backend infrastructure with it ever since. 
     When not coding for @cospired he is probably learning about new languages, data structures, databases, hacking ruby/elixir/Objective-C 
     or cooking up abstracts for talks.
+
+*   <a name="philippr"></a>
+    **Philipp Renoth**  
+    Full-time/stack dev, code review serious-taker, maximum-readability ensurer, refactor-addicted tech-debt hater, loves my colleages, Node.js and React, uses Java and Angular, working at consol.
 
 *   <a name="raduc"></a> 
     **Radu Creosteanu** 
