@@ -5,7 +5,7 @@ Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/even
 
 ### What?
 
-On 13th of June we have the following schedule:
+On 20th of December we have the following schedule:
 
 
 *   **18:30: Doors open**  
