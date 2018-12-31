@@ -9,6 +9,20 @@
       "place": "ara4a",
       "schedule": [
         {
+          "title": "Introduction to N-API",
+          "speaker": "Philipp Renoth"
+        },
+        {
+          "title": "Artificial Intelligence in JavaScript using Tensorflow.js",
+          "speaker": "Mathias Burger"
+        }
+      ]
+    },
+    "2018_10_25": {
+      "title": "December 20, 2018",
+      "place": "ara4a",
+      "schedule": [
+        {
           "title": "Introduction to Loopback",
           "speaker": "Andreas Greimel",
           "video": "https://www.youtube.com/embed/T1RgIHJLvuU"
