@@ -10,11 +10,13 @@
       "schedule": [
         {
           "title": "Introduction to N-API",
-          "speaker": "Philipp Renoth"
+          "speaker": "Philipp Renoth",
+          "video": "https://www.youtube.com/embed/_nUBCKaBjMQ"
         },
         {
           "title": "Artificial Intelligence in JavaScript using Tensorflow.js",
-          "speaker": "Mathias Burger"
+          "speaker": "Mathias Burger",
+          "video": "https://www.youtube.com/embed/aI7m5dvS0uo"
         }
       ]
     },
