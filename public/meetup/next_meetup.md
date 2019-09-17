@@ -1,7 +1,7 @@
 # Meetup: September 25, 2019
 
 On 25th of September we would like to invite you to our next community meetup of the Munich Node.JS User Group. 
-Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/255836190/) to give us a hint how many nodehackers are coming!
+Please sign up on [Meetup](https://www.meetup.com/Munich-Node-js-User-Group/events/264927707) to give us a hint how many nodehackers are coming!
 
 ### What?
 
