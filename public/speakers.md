@@ -216,6 +216,13 @@ We're proud having these speakers on board:
     technologies, and hardware hacking. As a fast and lightweight way to write
     code, he started to use node.js / TypeScript to automate reoccurring tasks.
 
+*   <a name="martinh"></a>
+    **Martin H&ouml;fling**  
+    Martin is a Principal Consultant at TNG Technology Consulting and
+    focuses on cloud native technology and architecture of distributed
+    systems. He is currently leading a team that builds interweaved web
+    applications based on cloud-native technology for a larger organization.
+
 *   <a name="mathiasb"></a>
     **Mathias Buus Madsen**  
     Mathias is a Node.js hacker based in Copenhagen who enjoys tinkering with
@@ -258,6 +265,14 @@ We're proud having these speakers on board:
     [Patrick Bürgin](http://www.patrickbuergin.com) is a master's student in computer science at TUM and worked as an engineer for major companies. 
     Coming from a JEE background, he joined the Node.js community in late 2013 and has been an advocate ever since, 
     developing Express.js applications in industry, university and hackathons.
+
+*   <a name="patrickh"></a>
+    **Patrick Harb&ouml;ck**  
+    atrick is a Senior Consultant at TNG Technology Consulting. As a Site
+    Reliability Engineer he is currently building and operating distributed
+    web systems with Kubernetes on AWS for a startup company. He uses and
+    contributes to open-source software where possible and likes to work
+    with Python, TypeScript, Go and modern web technologies.
 
 *   <a name="patrickm"></a>
     **Patrick Mulder**  
