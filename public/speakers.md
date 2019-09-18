@@ -268,7 +268,7 @@ We're proud having these speakers on board:
 
 *   <a name="patrickh"></a>
     **Patrick Harb&ouml;ck**  
-    atrick is a Senior Consultant at TNG Technology Consulting. As a Site
+    Patrick is a Senior Consultant at TNG Technology Consulting. As a Site
     Reliability Engineer he is currently building and operating distributed
     web systems with Kubernetes on AWS for a startup company. He uses and
     contributes to open-source software where possible and likes to work

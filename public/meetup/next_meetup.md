@@ -35,10 +35,9 @@ On 25th of September we have the following schedule:
     by [Andreas Greimel](/speakers.html#andreasg)
 
     [AWS Amplify](https://aws-amplify.github.io/) is a framework to integrate
-    various AWS services into your web application.  In this talk I will
-    demonstrate how to bootstrap a complete web app backend very quickly, including
-    User authentication and registration A RESTful API Hosting, optionally using a
-    CDN And powerful analytics tools
+    various AWS services into your web application. 
+    
+    In this talk I will demonstrate how to bootstrap a complete web app backend very quickly, including user authentication and registration, a RESTful API, hosting (optionally using a CDN) and powerful analytics tools.
 
 ### Where?
 
