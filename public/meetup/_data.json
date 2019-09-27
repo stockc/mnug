@@ -4,6 +4,20 @@
     }
   },
   "archive": {
+    "2019_09_25": {
+      "title": "September 25, 2019",
+      "place": "ara4a",
+      "schedule": [
+        {
+          "title": "No Docker Required: Building Node.js Container Images",
+          "speaker": "Martin Höfling and Patrick Harböck"
+        },
+        {
+          "title": "Amplify Your Web App - Cloud Backends with AWS Amplify",
+          "speaker": "Andreas Greimel"
+        }
+      ]
+    },
     "2018_12_20": {
       "title": "December 20, 2018",
       "place": "ara4a",
