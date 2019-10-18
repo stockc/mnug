@@ -24,27 +24,16 @@ On 24th of October we have the following schedule:
     align with the highly optimized code expected these days, a future that has
     already started.
 
-*   **20:30: Amplify Your Web App - Cloud Backends with AWS Amplify**  
-    by [Andreas Greimel](/speakers.html#andreasg)
-
-    [AWS Amplify](https://aws-amplify.github.io/) is a framework to integrate
-    various AWS services into your web application. 
-    
-    In this talk I will demonstrate how to bootstrap a complete web app backend
-    very quickly, including user authentication and registration, a RESTful API,
-    hosting (optionally using a CDN) and powerful analytics tools. [Video](https://youtu.be/fVocPeDZTLc)
-
-*   **21:30: RPC & JavaScript Functions as API**
+*   **20:30: RPC & JavaScript Functions as API**
     by [Romuald Brillout](/speakers.html#romualdb)
 
     [RPC](https://en.wikipedia.org/wiki/Remote_procedure_call) is an old
     technique for inter-process communication that can be dated back as earlier as
     the 70s.
 
-    With the recent advent of gRPC (https://grpc.io), RPC is making
-    a resurgence and is getting popular in the industry. Large companies, such
-    as Google and Netlix, are starting to replace REST/GraphQL with RPC for
-    internal APIs.
+    With the recent advent of [gRPC](https://grpc.io), RPC is making a
+    resurgence and is getting popular in the industry. Large companies, such as
+    Google and Netlix, are starting to replace REST/GraphQL with RPC for internal APIs.
 
     Beyond internal APIs, can RPC be used for web development?
 
