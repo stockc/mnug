@@ -199,13 +199,12 @@ We're proud having these speakers on board:
     electronics (wireless technology).
 
 *   <a name="lukast"></a>
-    **Lukas Taegert**  
-    After finishing his PhD studying the mathematical properties of black holes,
-    Lukas decided to go for less substance from then on and follow his passion of
-    becoming a software developer. He is now a full-time developer and JavaScript
-    enthusiast at TNG Technology Consulting GmbH where he is working with React and
-    Angular in the frontend and maintains several node servers for their
-    development backend. He also likes to spam on npm occasionally.
+    **Lukas Taegert-Atkinson**  
+    After finishing his PhD studying the mathematical properties of black
+    holes, Lukas decided to go for less substance from then on and follow his
+    passion of becoming a software developer. He is now a JavaScript enthusiast at
+    TNG Technology Consulting GmbH, and is the leading maintainer of Rollup.js - a
+    next-generation JavaScript module bundler that is used widely by the industry.
 
 *   <a name="markuss"></a>
     **Markus Spanier**  
@@ -315,6 +314,13 @@ We're proud having these speakers on board:
     than 15 years experience in developing web- and mobile-applications and
     portals. Since 2011 he specialized in Node.js. He is the author of the German
     book [Node.js: Professionell hochperformante Software entwickeln](http://www.amazon.de/dp/3446437223)
+
+*   <a name="romualdb"></a>
+    **Romuald Brillout**  
+    Romuald is a Software Engineer that enjoys designing and developing
+    Software and Products. Romuald has worked for several startups in their
+    early days such as Thermondo, CrossEngenge, and e-bot7. In his free time he
+    tinkers on open source projects.
 
 *   <a name="simonj"></a>
     **Simon Jost**  
