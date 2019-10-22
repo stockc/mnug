@@ -40,3 +40,8 @@ On 24th of October we have the following schedule:
     We will explore the benefits and drawbacks of RPC in the context of web
     development by comparing it with REST and GraphQL. We will then present an
     RPC library for Node.js and the browser.
+
+*   **21:00: ngqp: Synchronizing form controls with the URL in Angular**
+    by [Ingo B&uuml;rk](/speakers.html#ingob)
+
+    Data-driven applications often contain text search, filter or pagination interactions. By reflecting these parameters on the URL we can often improve user experience. ngqp is a library for Angular to achieve this easily and declaratively, avoiding boilerplate code and many headaches.
