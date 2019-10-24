@@ -15,7 +15,11 @@ On 24th of October we have the following schedule:
 *   **18:45: Beer and Pizza**  
     sponsored by [TNG](https://www.tngtech.com/en.html)
 
-*   **19:30: The Future Should Be Isomorphic**  
+*   **19:30: Quick overview: Node 12 vs Node 13**  
+    by [Lukas Taegert-Atkinson](/speakers.html#lukast)
+
+
+*   **19:45: The Future Should Be Isomorphic**  
     by [Lukas Taegert-Atkinson](/speakers.html#lukast)
 
     Remember that web development used to be instant fun? But it appears that
