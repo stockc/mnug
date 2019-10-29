@@ -4,6 +4,33 @@
     }
   },
   "archive": {
+    "2019_10_24": {
+      "title": "October 24, 2019",
+      "place": "ara4a",
+      "schedule": [
+        {
+          "title": "Quick overview: Node 12 vs Node 13",
+          "speaker": "Lukas Taegert-Atkinson",
+          "video": "https://youtu.be/yZsS0oGh8EI"
+        },
+        {
+          "title": "The Future Should Be Isomorphic",
+          "speaker": "Lukas Taegert-Atkinson",
+          "video": "https://youtu.be/FcjjT2KuZ90"
+        },
+        {
+          "title": "RPC & JavaScript Functions as API",
+          "speaker": "Romuald Brillout",
+          "video": "https://youtu.be/i8C9JNhMb5I"
+        },
+        {
+          "title": "ngqp: Synchronizing form controls with the URL in Angular",
+          "speaker": "Ingo B&uuml;rk",
+          "video": "https://youtu.be/HJB1nMLa3dQ"
+        }
+      ]
+    },
+  "archive": {
     "2019_09_25": {
       "title": "September 25, 2019",
       "place": "ara4a",
