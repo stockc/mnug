@@ -21,7 +21,7 @@ On 16th of January 2020 we have the following schedule:
     All the things you didn’t know you had do worry about when using streams in Node.js.
 
 *   **20:15: Microservices with Feathers.js**  
-    by [Dimitri Dumonet]()
+    by [Dimitri Dumonet](/speakers.html#dimitrid)
 
     Microservices are becoming more and more popular but compared to monolithic
     architectures, are harder to use when starting new projects.
