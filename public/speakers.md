@@ -106,8 +106,8 @@ We're proud having these speakers on board:
     He is currently working as a Senior Solutions Engineer for Couchbase in Germany. 
     Further details about David are available at [@magicable](http://www.twitter.com/magicable), in his [Blog](http://nosqlgeek.org/) or at [LinkedIn](https://www.linkedin.com/profile/view?id=194228293).
 
-*   <a name="dimitrid"></a>
-    **Dimitri Dumonet** 
+*   <a name="dimitrid"></a> 
+    **Dimitri Dumonet**  
     Dimitri Dumonet is CTO at [emax.digital](https://www.emax-digital.com/), a
     software startup that does data analysis for brands selling on ecommerce
     platforms like amazon. Before that he was a Fullstack Developer for more than 5
