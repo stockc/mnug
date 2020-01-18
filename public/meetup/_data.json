@@ -4,6 +4,22 @@
     }
   },
   "archive": {
+    "2020_01_16": {
+      "title": "January 16, 2020",
+      "place": "ara4a",
+      "schedule": [
+        {
+          "title": "Streams Whack a Mole",
+          "speaker": "Mathias Buus Madsen",
+          "video": "https://www.youtube.com/embed/LEZ4LwwOnFY"
+        },
+        {
+          "title": "Microservices with Feathers.js",
+          "speaker": "Dimitri Dumonet",
+          "video": "https://www.youtube.com/embed/S6N9mJRbbcE"
+        }
+      ]
+    },
     "2019_10_24": {
       "title": "October 24, 2019",
       "place": "ara4a",
