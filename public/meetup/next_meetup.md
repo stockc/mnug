@@ -12,7 +12,7 @@ On 8th of April 2020 we have the following schedule:
 
     We open the stream 15min before the first talk
 
-*   **19:00: TypeScript + Node.js = ❤️ **  
+*   **19:00: TypeScript + Node.js = <3**  
     by [Golo Roden](/speakers.html#golor)
 
     In recent years, TypeScript has taken the hearts of JavaScript developers
