@@ -30,3 +30,8 @@ On 8th of April 2020 we have the following schedule:
 *   **20:00: Wormholes in JavaScript**  
     by [Mathias Buus Madsen](/speakers.html#mathiasb)
 
+    A brief overview into how knowing how computers work internally, can make your
+    JavaScript run much faster! I’ll give multiple live coding demos on how to
+    apply these “wormholes” to real life algorithms
+
+
