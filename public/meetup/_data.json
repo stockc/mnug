@@ -4,6 +4,22 @@
     }
   },
   "archive": {
+    "2020_04_08": {
+      "title": "April 8, 2020",
+      "place": "zoom",
+      "schedule": [
+        {
+          "title": "TypeScript + Node.js = <3",
+          "speaker": "Golo Roden",
+          "video": "https://www.youtube.com/embed/aDBDwc8Tz7k"
+        },
+        {
+          "title": "Wormholes in JavaScript",
+          "speaker": "Mathias Buus Madsen",
+          "video": "https://www.youtube.com/embed/ydeY2d24JUw"
+        }
+      ]
+    },
     "2020_01_16": {
       "title": "January 16, 2020",
       "place": "ara4a",
